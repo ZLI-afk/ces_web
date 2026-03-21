@@ -6,20 +6,20 @@ var i18nData = {
         'header.title': 'Center for Energy Storage',
         'nav.home': 'Homepage',
         'nav.pub': 'Publications',
-        'nav.service': 'Aqueous Battery Service',
+        'nav.service': 'Aqueous Battery Custom Service',
         'nav.contact': 'Contact us',
         'hero.title': 'Center for Energy Storage',
         'about.title': 'About Us',
-        'about.p1': 'Founded in 2025, the Center for Energy Storage (CES) at The University of Hong Kong is an academic center dedicated to advancing cutting-edge energy storage research and innovation. Leveraging HKU\u2019s academic excellence, the Center focuses on five strategic directions: safe aqueous energy storage batteries, solid-state batteries, battery recycling, the convergence of batteries and artificial intelligence, and novel battery chemistries.',
-        'about.p2': 'The Center is committed to generating meaningful impact across society, industry, and education. At the societal level, CES addresses pressing global challenges such as climate change and energy sustainability by supporting the integration of renewable energy and the transition to low-carbon energy systems. At the industrial level, the Center drives technology transfer by channeling novel electrochemical energy technologies to industry partners, fostering industrial upgrading, and building a sustainable energy ecosystem. At the educational level, CES leads the next generation of the energy landscape by providing high-quality research opportunities in frontier fields such as AI and batteries, contributing to the global energy transition.',
-        'goals.title': 'Core Strategic Goals',
-        'goals.intro': 'To fulfill its mission, the Center for Energy Storage has established four core strategic goals:',
-        'goals.g1': '<strong>Technological Innovation</strong>: Driving energy storage innovation through the integration of AI and in-situ characterization technologies.',
-        'goals.g2': '<strong>Global R&D Collaboration</strong>: Enhancing R&D capabilities through international academic partnerships and knowledge transfer.',
-        'goals.g3': '<strong>Industry Partnerships</strong>: Catalyzing the transition of laboratory technologies to industry through broad societal collaborations.',
-        'goals.g4': '<strong>Enhancing International Visibility</strong>: Raising HKU\u2019s international profile in energy storage research through strategic branding.',
-        'vision.title': 'Vision',
-        'vision.text': 'The Center for Energy Storage at HKU is more than a research institution \u2014 its vision is to serve as a catalyst for the energy transition. By integrating academic excellence, technological innovation, and social responsibility, the Center is committed to shaping a sustainable, low-carbon energy future for Hong Kong and beyond. Through the close alignment of academic research, technological innovation, and societal needs, CES drives the construction of a greener, smarter, and more sustainable energy system.',
+        'about.p1': 'Founded in 2025, the Center for Energy Storage at The University of Hong Kong (HKU) is an academic hub dedicated to advancing cutting-edge energy storage research and innovation. Rooted in HKU\u2019s academic excellence, it focuses on five strategic directions: safe aqueous energy storage, solid-state batteries, battery recycling, AI integration for batteries, and new battery chemistries.',
+        'about.p2': 'The Center targets on delivering profound social, industrial, and educational impacts. Socially, it tackles urgent global issues like climate change and energy sustainability by supporting renewable energy integration and low-carbon energy transition. Industrially, it drives technology transfer by licensing new battery chemistries to industry, fostering sector upgrading and a sustainable energy ecosystem. Educationally, it provides top-tier research opportunities in cutting-edge fields like AI for batteries, nurturing a new generation of energy leaders capable of guiding global transition efforts.',
+        'goals.title': '',
+        'goals.intro': 'To achieve its mission, the Center has four core strategic goals. It develops innovative technologies by integrating AI and in-situ characterizations, enhances global R&D through international academic collaborations and knowledge transfer, fosters industry engagement by building a collaboration platform with energy firms and utilities, and elevates HKU\u2019s energy storage research through a unified brand to boost international recognition.',
+        'goals.g1': '',
+        'goals.g2': '',
+        'goals.g3': '',
+        'goals.g4': '',
+        'vision.title': '',
+        'vision.text': 'More than a research institute, the vision of Center for Energy Storage at HKU is to serve as a catalyst for energy transition. It targets on merging academic excellence, technological innovation, and societal responsibility to shape a sustainable, low-carbon energy future for Hong Kong and the world.',
         'pub.title': 'Publications',
         'pub.uc': 'This page is under construction. Please check back later.',
         'abs.title': 'Aqueous Battery Service',
@@ -92,17 +92,23 @@ var i18nData = {
         'abs.p4_f1': 'High-strength flat-plate clamp',
         'abs.p4_f2': 'Aluminum alloy or acrylic plates',
         'abs.p4_f3': 'Rectangular spring compression for pressure',
-        'abs.sub3_title': 'Custom Service',
-        'abs.c_anode_title': 'If your research focuses on the anode:',
-        'abs.c_anode_text': 'We can fabricate anode sheets to your specified method and key materials, then provide matching cathode sheets \u2014 such as conventional MnO\u2082 cathodes, vanadium oxide cathodes, iodine cathodes, nickel cathodes, etc. We can also develop non-conventional cathodes using materials you designate or provide (which requires slightly more electrode development time). Other components such as electrolyte and separator can be specified or provided by you, or matched by us as needed.',
-        'abs.c_cathode_title': 'If your research focuses on the cathode:',
-        'abs.c_cathode_text': 'We can fabricate cathode sheets to your specified method and key materials, then provide matching anode sheets \u2014 such as conventional zinc foil, zinc powder anodes, zinc oxide anodes, etc. We can also develop non-conventional anodes using materials you designate or provide (which requires slightly more electrode development time). Other components such as electrolyte and separator can be specified or provided by you, or matched by us as needed.',
-        'abs.c_elec_title': 'If your research focuses on the electrolyte:',
-        'abs.c_elec_text': 'You may provide the electrolyte directly, or have us prepare it according to your specified method and designated/provided raw materials. We can accordingly provide the conventional cathode and anode sheets listed above, or develop non-conventional electrodes using materials you designate or provide (which requires slightly more electrode development time).',
-        'abs.c_other_title': 'If your research focuses on separators, current collectors, etc.:',
-        'abs.c_other_text': 'You may provide materials meeting the required dimensions directly. We can accordingly provide the conventional cathode and anode sheets listed above, or develop non-conventional electrodes using materials you designate or provide (which requires slightly more electrode development time).',
-        'abs.c_note': '* All key and auxiliary materials involved may be flexibly sourced \u2014 provided by you, designated by you, or independently procured by us. The full customization cycle includes communication and process finalization, material procurement lead time, additional development time for non-conventional electrodes, battery manufacturing, and testing.',
-        'abs.c_contact_title': 'Start Your One-on-One Custom Service:',
+        'abs.sub3_title': 'Introduction for the customization',
+        'abs.c_anode_title': 'If you are conducting research related to the negative electrodes:',
+        'abs.c_anode_text': 'We can produce negative electrodes according to the methods and/or key materials you provide, and then match positive electrodes, such as conventional manganese dioxide electrodes, vanadium oxide electrodes, iodine electrodes, nickel electrodes, etc. We can also develop unconventional positive electrodes as you specify or provide key materials (which may cost a little more time for electrode development). Other components, such as electrolytes and separators, can be specified or provided by you, or we can match them ourselves according to your needs.',
+        'abs.c_cathode_title': 'If you are conducting research related to the positive electrodes:',
+        'abs.c_cathode_text': 'We can produce positive electrodes according to the methods and/or key materials you provide, and then match negative electrodes, such as conventional zinc mental foil, zinc metal powder electrodes, zinc oxide powder electrodes, etc. We can also develop unconventional negative electrodes as you specify or provide key materials (which may cost a little more time for electrode development). Other components, such as electrolytes and separators, can be specified or provided by you, or we can match them ourselves according to your needs.',
+        'abs.c_elec_title': 'If you are conducting research related to the electrolytes:',
+        'abs.c_elec_text': 'You can directly provide the special electrolytes, or we can prepare them according to the methods and/or materials you specify or provide. We can match the conventional positive and negative electrodes listed above, or develop unconventional electrodes as you specify or provide key materials (which may cost a little more time for electrode development).',
+        'abs.c_other_title': 'If you are conducting research related to the separators or current collectors:',
+        'abs.c_other_text': 'You can directly provide the special materials that meet the dimensional requirements, and we can match the conventional positive and negative electrodes listed above, or we can develop unconventional electrodes as you specify or provide key materials (which may cost a little more time for electrode development).',
+        'abs.c_cathode_info_prefix': 'Conventional Positive Electrodes:',
+        'abs.c_anode_info_prefix': 'Conventional Positive Electrodes:',
+        'abs.c_sep_info_prefix': 'Conventional separators and collectors:',
+        'abs.c_click': 'Click here.',
+        'modal.uc_title': 'Under Construction',
+        'modal.uc_text': 'This page is under construction. Please check back later.',
+        'abs.c_note': 'All key or auxiliary materials can be provided or specified by you, or provided autonomously by us. The whole customization duration includes information time, confirmation time for specific battery process, necessary waiting time for material preparation, additional development time for unconventional electrodes, battery manufacturing and testing time, etc. Generally, it will take 4~8 weeks (excluding holidays).',
+        'abs.c_contact_title': 'One-on-One Customization Service:',
         'abs.c_contact_name': 'Ms. Amy, F. Huang',
         'abs.c_contact_email_label': 'Email',
         'abs.c_contact_wechat_label': 'WeChat',
@@ -131,7 +137,7 @@ var i18nData = {
         'header.title': '\u9999\u6e2f\u5927\u5b66\u50a8\u80fd\u4e2d\u5fc3',
         'nav.home': '\u4e3b\u9875',
         'nav.pub': '\u53d1\u8868\u6587\u732e',
-        'nav.service': '\u6c34\u7cfb\u7535\u6c60\u670d\u52a1',
+        'nav.service': '\u6c34\u7cfb\u7535\u6c60\u5b9a\u5236\u670d\u52a1',
         'nav.contact': '\u8054\u7cfb\u6211\u4eec',
         'hero.title': '\u9999\u6e2f\u5927\u5b66\u50a8\u80fd\u4e2d\u5fc3',
         'about.title': '\u5173\u4e8e\u6211\u4eec',
@@ -226,6 +232,12 @@ var i18nData = {
         'abs.c_elec_text': '\u60a8\u53ef\u4ee5\u76f4\u63a5\u63d0\u4f9b\u7535\u89e3\u6db2\uff0c\u4e5f\u53ef\u4ee5\u8ba9\u6211\u4eec\u6309\u7167\u60a8\u5236\u5b9a\u7684\u65b9\u6cd5\u53ca\u6307\u5b9a/\u63d0\u4f9b\u7684\u539f\u6599\u4ee3\u4e3a\u914d\u5236\u3002\u6211\u4eec\u53ef\u4ee5\u76f8\u5e94\u63d0\u4f9b\u5982\u4e0a\u5217\u4e3e\u7684\u5e38\u89c4\u6b63\u3001\u8d1f\u6781\u7247\uff0c\u4e5f\u53ef\u4ee5\u5f00\u53d1\u975e\u5e38\u89c4\u7684\u6781\u7247\uff0c\u5982\u60a8\u6307\u5b9a\u6216\u63d0\u4f9b\u5173\u952e\u6750\u6599\uff08\u9700\u8981\u7a0d\u591a\u4e00\u70b9\u7684\u7535\u6781\u5f00\u53d1\u65f6\u95f4\uff09\u3002',
         'abs.c_other_title': '\u5982\u679c\u60a8\u505a\u9694\u819c\u3001\u96c6\u6d41\u4f53\u7b49\u7814\u7a76\uff1a',
         'abs.c_other_text': '\u60a8\u53ef\u4ee5\u76f4\u63a5\u63d0\u4f9b\u7b26\u5408\u5c3a\u5bf8\u9700\u6c42\u7684\u6750\u6599\uff0c\u8ba9\u6211\u4eec\u76f8\u5e94\u63d0\u4f9b\u5982\u4e0a\u5217\u4e3e\u7684\u5e38\u89c4\u6b63\u3001\u8d1f\u6781\u7247\uff0c\u4e5f\u53ef\u4ee5\u8ba9\u6211\u4eec\u5f00\u53d1\u975e\u5e38\u89c4\u7684\u6781\u7247\uff0c\u5982\u60a8\u6307\u5b9a\u6216\u63d0\u4f9b\u5173\u952e\u6750\u6599\uff08\u9700\u8981\u7a0d\u591a\u4e00\u70b9\u7684\u7535\u6781\u5f00\u53d1\u65f6\u95f4\uff09\u3002',
+        'abs.c_cathode_info_prefix': '\u5e38\u89c4\u6b63\u6781\u76f8\u5173\u4fe1\u606f\u8bf7\u89c1',
+        'abs.c_anode_info_prefix': '\u5e38\u89c4\u8d1f\u6781\u76f8\u5173\u4fe1\u606f\u8bf7\u89c1',
+        'abs.c_sep_info_prefix': '\u5e38\u89c4\u9694\u819c\u548c\u96c6\u6d41\u4f53\u4fe1\u606f\u8bf7\u89c1',
+        'abs.c_click': 'Click',
+        'modal.uc_title': '\u9875\u9762\u5efa\u8bbe\u4e2d',
+        'modal.uc_text': '\u8be5\u9875\u9762\u6b63\u5728\u5efa\u8bbe\u4e2d\uff0c\u8bf7\u7a0d\u540e\u518d\u6765\u67e5\u770b\u3002',
         'abs.c_note': '\u203b\u4ee5\u4e0a\u6240\u6d89\u53ca\u7684\u5173\u952e\u6750\u6599\u53ca\u975e\u5173\u952e\u6750\u6599\uff08\u8f85\u6599\uff09\uff0c\u5747\u53ef\u7531\u60a8\u63d0\u4f9b\u3001\u6307\u5b9a\u4ee5\u53ca\u6211\u4eec\u81ea\u4e3b\u91c7\u8d2d\u7b49\u65b9\u5f0f\u7075\u6d3b\u8fdb\u884c\uff1b\u7535\u6c60\u5b9a\u5236\u7684\u6574\u4e2a\u5468\u671f\u5305\u62ec\u4fe1\u606f\u6c9f\u901a\u53ca\u5de5\u827a\u5b9a\u7a3f\u65f6\u95f4\u3001\u6750\u6599\u5c31\u4f4d\u7684\u5fc5\u8981\u65f6\u95f4\u3001\u975e\u5e38\u89c4\u7535\u6781\u7684\u989d\u5916\u5f00\u53d1\u65f6\u95f4\u3001\u7535\u6c60\u5236\u9020\u5468\u671f\u3001\u6d4b\u8bd5\u5468\u671f\u7b49\u3002',
         'abs.c_contact_title': '\u5f00\u542f\u4e00\u5bf9\u4e00\u7684\u5b9a\u5236\u670d\u52a1\uff1a',
         'abs.c_contact_name': 'Ms. Amy, F. Huang',
@@ -256,7 +268,7 @@ var i18nData = {
         'header.title': '\u9999\u6e2f\u5927\u5b78\u5132\u80fd\u4e2d\u5fc3',
         'nav.home': '\u4e3b\u9801',
         'nav.pub': '\u767c\u8868\u6587\u737b',
-        'nav.service': '\u6c34\u7cfb\u96fb\u6c60\u670d\u52d9',
+        'nav.service': '\u6c34\u7cfb\u96fb\u6c60\u5b9a\u5236\u670d\u52d9',
         'nav.contact': '\u806f\u7d61\u6211\u5011',
         'hero.title': '\u9999\u6e2f\u5927\u5b78\u5132\u80fd\u4e2d\u5fc3',
         'about.title': '\u95dc\u65bc\u6211\u5011',
@@ -351,6 +363,12 @@ var i18nData = {
         'abs.c_elec_text': '\u60a8\u53ef\u4ee5\u76f4\u63a5\u63d0\u4f9b\u96fb\u89e3\u6db2\uff0c\u4e5f\u53ef\u4ee5\u8b93\u6211\u5011\u6309\u7167\u60a8\u5236\u5b9a\u7684\u65b9\u6cd5\u53ca\u6307\u5b9a/\u63d0\u4f9b\u7684\u539f\u6599\u4ee3\u70ba\u914d\u5236\u3002\u6211\u5011\u53ef\u4ee5\u76f8\u61c9\u63d0\u4f9b\u5982\u4e0a\u5217\u8209\u7684\u5e38\u898f\u6b63\u3001\u8ca0\u6975\u7247\uff0c\u4e5f\u53ef\u4ee5\u958b\u767c\u975e\u5e38\u898f\u7684\u6975\u7247\uff0c\u5982\u60a8\u6307\u5b9a\u6216\u63d0\u4f9b\u95dc\u9375\u6750\u6599\uff08\u9700\u8981\u7a0d\u591a\u4e00\u9ede\u7684\u96fb\u6975\u958b\u767c\u6642\u9593\uff09\u3002',
         'abs.c_other_title': '\u5982\u679c\u60a8\u505a\u9694\u819c\u3001\u96c6\u6d41\u9ad4\u7b49\u7814\u7a76\uff1a',
         'abs.c_other_text': '\u60a8\u53ef\u4ee5\u76f4\u63a5\u63d0\u4f9b\u7b26\u5408\u5c3a\u5bf8\u9700\u6c42\u7684\u6750\u6599\uff0c\u8b93\u6211\u5011\u76f8\u61c9\u63d0\u4f9b\u5982\u4e0a\u5217\u8209\u7684\u5e38\u898f\u6b63\u3001\u8ca0\u6975\u7247\uff0c\u4e5f\u53ef\u4ee5\u8b93\u6211\u5011\u958b\u767c\u975e\u5e38\u898f\u7684\u6975\u7247\uff0c\u5982\u60a8\u6307\u5b9a\u6216\u63d0\u4f9b\u95dc\u9375\u6750\u6599\uff08\u9700\u8981\u7a0d\u591a\u4e00\u9ede\u7684\u96fb\u6975\u958b\u767c\u6642\u9593\uff09\u3002',
+        'abs.c_cathode_info_prefix': '\u5e38\u898f\u6b63\u6975\u76f8\u95dc\u8cc7\u8a0a\u8acb\u898b',
+        'abs.c_anode_info_prefix': '\u5e38\u898f\u8ca0\u6975\u76f8\u95dc\u8cc7\u8a0a\u8acb\u898b',
+        'abs.c_sep_info_prefix': '\u5e38\u898f\u9694\u819c\u548c\u96c6\u6d41\u9ad4\u8cc7\u8a0a\u8acb\u898b',
+        'abs.c_click': 'Click',
+        'modal.uc_title': '\u9801\u9762\u5efa\u8a2d\u4e2d',
+        'modal.uc_text': '\u8a72\u9801\u9762\u6b63\u5728\u5efa\u8a2d\u4e2d\uff0c\u8acb\u7a0d\u5f8c\u518d\u4f86\u67e5\u770b\u3002',
         'abs.c_note': '\u203b\u4ee5\u4e0a\u6240\u6d89\u53ca\u7684\u95dc\u9375\u6750\u6599\u53ca\u975e\u95dc\u9375\u6750\u6599\uff08\u8f14\u6599\uff09\uff0c\u5747\u53ef\u7531\u60a8\u63d0\u4f9b\u3001\u6307\u5b9a\u4ee5\u53ca\u6211\u5011\u81ea\u4e3b\u63a1\u8cfc\u7b49\u65b9\u5f0f\u9748\u6d3b\u9032\u884c\uff1b\u96fb\u6c60\u5b9a\u5236\u7684\u6574\u500b\u9031\u671f\u5305\u62ec\u8cc7\u8a0a\u6e9d\u901a\u53ca\u5de5\u85dd\u5b9a\u7a3f\u6642\u9593\u3001\u6750\u6599\u5c31\u4f4d\u7684\u5fc5\u8981\u6642\u9593\u3001\u975e\u5e38\u898f\u96fb\u6975\u7684\u984d\u5916\u958b\u767c\u6642\u9593\u3001\u96fb\u6c60\u88fd\u9020\u9031\u671f\u3001\u6e2c\u8a66\u9031\u671f\u7b49\u3002',
         'abs.c_contact_title': '\u958b\u555f\u4e00\u5c0d\u4e00\u7684\u5b9a\u5236\u670d\u52d9\uff1a',
         'abs.c_contact_name': 'Ms. Amy, F. Huang',
@@ -388,6 +406,7 @@ function setLanguage(lang) {
         var key = el.getAttribute('data-i18n');
         if (translations[key] !== undefined) {
             el.textContent = translations[key];
+            el.style.display = translations[key] === '' ? 'none' : '';
         }
     });
 
@@ -395,6 +414,7 @@ function setLanguage(lang) {
         var key = el.getAttribute('data-i18n-html');
         if (translations[key] !== undefined) {
             el.innerHTML = translations[key];
+            el.style.display = translations[key] === '' ? 'none' : '';
         }
     });
 
@@ -414,6 +434,12 @@ function switchPage(pageId) {
     if (target) {
         target.classList.add('active');
     }
+
+    var floatingBox = document.querySelector('.floating-contact-box');
+    if (floatingBox) {
+        floatingBox.style.display = (pageId === 'aqueous-battery-service') ? 'block' : 'none';
+    }
+
     window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
@@ -479,6 +505,31 @@ document.addEventListener('DOMContentLoaded', function () {
             saveContact(data);
             form.style.display = 'none';
             document.getElementById('form-success').style.display = 'block';
+        });
+    }
+
+    /* Info modal (under construction) */
+    var modal = document.getElementById('info-modal');
+    var modalClose = document.getElementById('info-modal-close');
+
+    document.querySelectorAll('.info-link').forEach(function (link) {
+        link.addEventListener('click', function (e) {
+            e.preventDefault();
+            modal.classList.add('active');
+        });
+    });
+
+    if (modalClose) {
+        modalClose.addEventListener('click', function () {
+            modal.classList.remove('active');
+        });
+    }
+
+    if (modal) {
+        modal.addEventListener('click', function (e) {
+            if (e.target === modal) {
+                modal.classList.remove('active');
+            }
         });
     }
 });

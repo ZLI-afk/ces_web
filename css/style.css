@@ -13,7 +13,7 @@ html {
 }
 
 body {
-    font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang TC', 'PingFang SC', 'Microsoft JhengHei', 'Microsoft YaHei', 'Noto Sans TC', 'Noto Sans SC', sans-serif;
     color: #333;
     background-color: #fff;
     line-height: 1.6;
@@ -138,7 +138,7 @@ img {
 
 .site-subtitle {
     font-size: 1.3rem;
-    font-weight: 300;
+    font-weight: 700;
     color: #2a7a96;
 }
 
@@ -190,22 +190,6 @@ img {
     box-shadow: inset 0 -3px 0 #fff;
 }
 
-.nav-highlight a {
-    background: linear-gradient(135deg, #d4a017, #e8b828);
-    color: #fff !important;
-    font-size: 1.05rem;
-    letter-spacing: 0.5px;
-    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
-}
-
-.nav-highlight a:hover {
-    background: linear-gradient(135deg, #c4920f, #d4a017) !important;
-}
-
-.nav-highlight.active a {
-    background: linear-gradient(135deg, #b8860b, #c4920f);
-    box-shadow: inset 0 -3px 0 #fff;
-}
 
 /* ===== Page Sections (SPA-style) ===== */
 .page-section {

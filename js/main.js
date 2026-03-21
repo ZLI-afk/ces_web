@@ -435,11 +435,6 @@ function switchPage(pageId) {
         target.classList.add('active');
     }
 
-    var floatingBox = document.querySelector('.floating-contact-box');
-    if (floatingBox) {
-        floatingBox.style.display = (pageId === 'aqueous-battery-service') ? 'block' : 'none';
-    }
-
     window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 

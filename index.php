@@ -40,7 +40,7 @@
         <ul class="nav-list">
             <li class="nav-item active" data-page="homepage"><a href="#homepage" data-i18n="nav.home">Homepage</a></li>
             <li class="nav-item" data-page="publications"><a href="#publications" data-i18n="nav.pub">Publications</a></li>
-            <li class="nav-item nav-highlight" data-page="aqueous-battery-service"><a href="#aqueous-battery-service" data-i18n="nav.service">Aqueous Battery Custom Service</a></li>
+            <li class="nav-item" data-page="aqueous-battery-service"><a href="#aqueous-battery-service" data-i18n="nav.service">Aqueous Battery Custom Service</a></li>
             <li class="nav-item" data-page="contact"><a href="#contact" data-i18n="nav.contact">Contact us</a></li>
         </ul>
     </nav>

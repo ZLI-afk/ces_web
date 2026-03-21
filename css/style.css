@@ -508,45 +508,36 @@ img {
     font-size: 0.9rem;
 }
 
-.floating-contact-box {
-    position: fixed;
-    right: 2rem;
-    bottom: 2rem;
-    width: 260px;
-    padding: 1.2rem 1.5rem;
+/* ===== Sidebar Contact Box ===== */
+.sidebar-contact-box {
+    margin: 1.5rem 1rem;
+    padding: 1.2rem 1rem;
     background: linear-gradient(135deg, #e8f4f8, #d0eaf2);
-    border-radius: 10px;
+    border-radius: 8px;
     border: 1px solid #a0cfe0;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
-    z-index: 200;
-    display: none;
-    animation: floatIn 0.3s ease-out;
 }
 
-@keyframes floatIn {
-    from { opacity: 0; transform: translateY(20px); }
-    to { opacity: 1; transform: translateY(0); }
-}
-
-.floating-contact-box h4 {
-    font-size: 1rem;
+.sidebar-contact-box h4 {
+    font-size: 0.95rem;
     color: #1a5f7a;
     margin-bottom: 0.6rem;
     border-bottom: 2px solid #2a7a96;
     padding-bottom: 0.4rem;
+    line-height: 1.4;
 }
 
-.floating-contact-box p {
+.sidebar-contact-box p {
     margin-bottom: 0.3rem;
-    font-size: 0.9rem;
+    font-size: 0.85rem;
     color: #444;
+    line-height: 1.5;
 }
 
-.floating-contact-box a {
+.sidebar-contact-box a {
     color: #2a7a96;
 }
 
-.floating-contact-box a:hover {
+.sidebar-contact-box a:hover {
     text-decoration: underline;
 }
 
@@ -931,11 +922,9 @@ img {
         padding: 1rem;
     }
 
-    .floating-contact-box {
-        right: 1rem;
-        bottom: 1rem;
-        width: 220px;
-        padding: 1rem 1.2rem;
+    .sidebar-contact-box {
+        margin: 1rem 0.5rem;
+        padding: 1rem 0.8rem;
     }
 }
 

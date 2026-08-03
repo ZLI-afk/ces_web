@@ -1,36 +1,33 @@
 /* ===== i18n Translation Data ===== */
 var i18nData = {
     en: {
-        'topbar.email': 'fhuang1@hku.hk',
-        'topbar.wechat': 'WeChat: Amy_huang0111',
-        'header.title': 'Center for Energy Storage',
+        'header.title': 'Centre for Energy Storage',
         'nav.home': 'Homepage',
         'nav.pub': 'Publications',
         'nav.service': 'Aqueous Battery Custom Service',
         'nav.contact': 'Contact us',
-        'hero.title': 'Center for Energy Storage',
+        'hero.title': 'Centre for Energy Storage',
         'about.title': 'About Us',
-        'about.p1': 'Founded in 2025, the Center for Energy Storage at The University of Hong Kong (HKU) is an academic hub dedicated to advancing cutting-edge energy storage research and innovation. Rooted in HKU\u2019s academic excellence, it focuses on five strategic directions: safe aqueous energy storage, solid-state batteries, battery recycling, AI integration for batteries, and new battery chemistries.',
-        'about.p2': 'The Center targets on delivering profound social, industrial, and educational impacts. Socially, it tackles urgent global issues like climate change and energy sustainability by supporting renewable energy integration and low-carbon energy transition. Industrially, it drives technology transfer by licensing new battery chemistries to industry, fostering sector upgrading and a sustainable energy ecosystem. Educationally, it provides top-tier research opportunities in cutting-edge fields like AI for batteries, nurturing a new generation of energy leaders capable of guiding global transition efforts.',
-        'goals.title': '',
-        'goals.intro': 'To achieve its mission, the Center has four core strategic goals. It develops innovative technologies by integrating AI and in-situ characterizations, enhances global R&D through international academic collaborations and knowledge transfer, fosters industry engagement by building a collaboration platform with energy firms and utilities, and elevates HKU\u2019s energy storage research through a unified brand to boost international recognition.',
-        'goals.g1': '',
-        'goals.g2': '',
-        'goals.g3': '',
-        'goals.g4': '',
-        'vision.title': '',
-        'vision.text': 'More than a research institute, the vision of Center for Energy Storage at HKU is to serve as a catalyst for energy transition. It targets on merging academic excellence, technological innovation, and societal responsibility to shape a sustainable, low-carbon energy future for Hong Kong and the world.',
+        'about.p1': 'The Centre for Energy Storage at The University of Hong Kong (HKUCES) is an academic hub dedicated to advancing cutting-edge energy storage research and innovation. Rooted in HKU\u2019s academic excellence, it focuses on the following strategic directions: safe aqueous energy storage, solid-state batteries, battery recycling, and AI integration for energy storage.',
+        'about.p2': 'The Centre targets on delivering profound social, industrial, and educational impacts. Socially, it tackles urgent global issues like climate change and energy sustainability by supporting renewable energy integration and low-carbon energy transition. Industrially, it drives technology transfer by licensing new energy storage materials and technologies to industry, fostering sector upgrading and a sustainable energy ecosystem. Educationally, it provides top-tier research opportunities in cutting-edge fields like AI for materials, nurturing a new generation of energy leaders capable of guiding the energy transition efforts.',
+        'goals.title': 'Core Strategic Goals',
+        'goals.intro': 'To achieve its mission, the Centre has four core strategic goals. It develops innovative technologies by integrating AI and in-situ characterizations, enhances global R&D through international academic collaborations and knowledge transfer, fosters industry engagement by building a collaboration platform with energy firms and utilities, and elevates HKU\u2019s energy storage research through a unified brand to boost international recognition.',
+        'goals.g1': '<strong>Technological Innovation</strong>: Driving energy storage innovation through the integration of materials advances, and AI technologies.',
+        'goals.g2': '<strong>Global R&D Collaboration</strong>: Enhancing R&D capabilities through international academic partnerships and knowledge transfer.',
+        'goals.g3': '<strong>Industry Partnerships</strong>: Catalyzing the transition of laboratory technologies to industry through broad societal collaborations.',
+        'goals.g4': '<strong>Enhancing International Visibility</strong>: Raising HKU\u2019s international profile in energy storage research through strategic branding.',
+        'vision.title': 'Vision',
+        'vision.text': 'More than a research institute, the vision of Centre for Energy Storage at HKU is to serve as a catalyst for energy transition. It targets on merging academic excellence, technological innovation, and societal responsibility to shape a sustainable, low-carbon energy future for Hong Kong and the world.',
         'pub.title': 'Publications',
         'pub.uc': 'This page is under construction. Please check back later.',
         'abs.title': 'Aqueous Battery Custom Service',
         'abs.sub1': 'Aqueous Rigid-cased Full Batteries (ARFB) Service',
-        'abs.sub2': 'Aqueous Pouch Cell Service',
-        'abs.sub3': 'Introduction for the customization',
+        'abs.sub3': 'Details of the Service',
         'abs.sub1_title': 'Aqueous Rigid-cased Full Batteries (ARFB) Service',
         'abs.sub1_intro1': 'Given the current limitations of laboratory conditions and evaluation models, which rely on coin cells or micro-small pouch cells, the guiding significance for advancing the practical application of emerging aqueous batteries is relatively one-sided and lacking. Meanwhile, by drawing on the successful practical experience of existing aqueous batteries, especially Metal hydride-Nickel batteries and Lead-acid batteries, we recognize that if an aqueous battery under research has the potential for practical application, it is most likely to be presented in the form of a rigid-cased battery.',
         'abs.sub1_intro2': 'Rigid-cased encapsulation based on full batteries provides the indispensable threshold: an independent sealed space and tightly assembled structure, sufficient active material (mass and/or volume, reaction capacity and/or charge-discharge depth and/or utilization, path length of mass transfer and current collection), based on limited excesses of matter and space, or chemical/physical buffer conditions.',
         'abs.sub1_intro3': 'The ARFB service platform primarily focuses on the transitional phase for research batteries moving towards industrialization. It aims to bridge the gap between current academic research and industrial-level batteries, providing technical and process support services to facilitate and guide various emerging aquatic batteries toward functional maturity.',
-        'abs.products_label': 'Products/Batteries We Offer:',
+        'abs.products_label': 'Products and Services',
         'abs.th_product': 'Display',
         'abs.th_feature': 'Feature Description',
         'abs.th_process': 'Process Introduction',
@@ -47,7 +44,7 @@ var i18nData = {
         'abs.r1_p4': 'High-precision composition',
         'abs.r1_p5': 'High-pressure compaction.',
         'abs.r1_p6': 'Welded tabs (metal).',
-        'abs.r2_prod': 'Cylindrical Batteries:',
+        'abs.r2_prod': 'Cylindrical Battery Fabrication and Test',
         'abs.r2_f1': 'Ultra-high internal pressure upper limit (\u22644 MPa).',
         'abs.r2_f2': 'Multiple options (AA/SC/D/F types).',
         'abs.r2_f3': 'Customization: capacity, appearance (colors, labels).',
@@ -57,7 +54,7 @@ var i18nData = {
         'abs.r2_p2': 'Nickel-plated SPCC cases.',
         'abs.r2_p3': 'Non-alkaline, only supports lean electrolytes.',
         'abs.r2_p4': 'Strongly alkaline, can support non-lean electrolytes.',
-        'abs.r3_prod': 'Prismatic Batteries (single)',
+        'abs.r3_prod': 'Prismatic Batteries (Single Cell)',
         'abs.r3_f1': 'Injection molding and 3D printing options.',
         'abs.r3_f2': 'Customization: size, shape, appearance (colors, labels).',
         'abs.r3_f3': 'External series/parallel options.',
@@ -67,7 +64,7 @@ var i18nData = {
         'abs.r3_p2': 'ABS cases.',
         'abs.r3_p3': 'Welded tabs and busbars.',
         'abs.r3_p4': 'Support acid/mild/alkaline, lean/non-lean electrolytes.',
-        'abs.r4_prod': 'Prismatic Batteries (pack)',
+        'abs.r4_prod': 'Prismatic Batteries (Multi-Cells)',
         'abs.r4_f1': 'High-strength injection molding cases.',
         'abs.r4_f2': 'Mainly 6-cell-series packs.',
         'abs.r4_f3': 'Customization: size, shape, appearance (colors, labels).',
@@ -77,7 +74,6 @@ var i18nData = {
         'abs.r4_p3': 'Welded tabs and busbars.',
         'abs.r4_p4': 'Support acid/mild/alkaline, lean/non-lean electrolytes.',
         'abs.r4_p5': 'Integrated safety valve.',
-        'abs.sub2_title': 'Aqueous Pouch Cell Service:',
         'abs.sub2_intro1': 'If you only need simple encapsulation model or wish to complete the final manufacturing by yourself, you can choose the pouch cell. We can provide individual components of the battery as required, such as positive and negative electrodes as your desired specifications (which can include welded tabs). We can also provide dry cells with customized parameters, injecting electrolytes to complete the batteries in one step.',
         'abs.sub2_intro2': 'You can also customize full cells and subsequent testing, with differences mainly in stacking layers and encapsulation materials, while other aspects are basically the same as the Prismatic Batteries (single).',
         'abs.sub2_intro3': 'Pouch cells cannot maintain their size/volume and tight assembly state independently, so you can choose an auxiliary clamp for testing.',
@@ -95,7 +91,7 @@ var i18nData = {
         'abs.p4_f1': 'High-strength parallel plate clamp.',
         'abs.p4_f2': 'Aluminum alloy or plexiglass.',
         'abs.p4_f3': 'Spring force provides pressure.',
-        'abs.sub3_title': 'Introduction for the customization:',
+        'abs.sub3_title': 'Details of the Service',
         'abs.c_anode_title': 'If you are conducting research related to the negative electrodes:',
         'abs.c_anode_text': 'We can produce negative electrodes according to the methods and/or key materials you provide, and then match positive electrodes, such as conventional manganese dioxide electrodes, vanadium oxide electrodes, iodine electrodes, nickel electrodes, etc. We can also develop unconventional positive electrodes as you specify or provide key materials (which may cost a little more time for electrode development). Other components, such as electrolytes and separators, can be specified or provided by you, or we can match them ourselves according to your needs.',
         'abs.c_cathode_title': 'If you are conducting research related to the positive electrodes:',
@@ -104,23 +100,17 @@ var i18nData = {
         'abs.c_elec_text': 'You can directly provide the special electrolytes, or we can prepare them according to the methods and/or materials you specify or provide. We can match the conventional positive and negative electrodes listed above, or develop unconventional electrodes as you specify or provide key materials (which may cost a little more time for electrode development).',
         'abs.c_other_title': 'If you are conducting research related to the separators or current collectors:',
         'abs.c_other_text': 'You can directly provide the special materials that meet the dimensional requirements, and we can match the conventional positive and negative electrodes listed above, or we can develop unconventional electrodes as you specify or provide key materials (which may cost a little more time for electrode development).',
-        'abs.c_cathode_info_prefix': 'Conventional Positive Electrodes:',
-        'abs.c_anode_info_prefix': 'Conventional Positive Electrodes:',
-        'abs.c_sep_info_prefix': 'Conventional separators and collectors:',
-        'abs.c_click': 'Click here.',
-        'modal.uc_title': 'Under Construction',
-        'modal.uc_text': 'This page is under construction. Please check back later.',
-        'abs.c_note': 'All key or auxiliary materials can be provided or specified by you, or provided autonomously by us. The whole customization duration includes information time, confirmation time for specific battery process, necessary waiting time for material preparation, additional development time for unconventional electrodes, battery manufacturing and testing time, etc. Generally, it will take 4~8 weeks (excluding holidays).',
         'abs.c_contact_title': 'One-on-One Customization Service:',
-        'abs.c_contact_name': 'Dr. Zhu',
+        'abs.c_contact_name': 'Zhili Wang',
         'abs.c_contact_email_label': 'Email',
-        'abs.c_contact_email': 'jiaxiong.zhu@my.cityu.edu.hk',
+        'abs.c_contact_email': '',
         'abs.c_contact_wechat_label': 'WeChat',
-        'abs.c_contact_wechat': '136 3285 5467',
+        'abs.c_contact_wechat': '',
         'contact.title': 'Contact',
-        'contact.center_name': 'Center for Energy Storage (CES)',
+        'contact.center_name': 'Centre for Energy Storage (CES)',
         'contact.univ': 'The University of Hong Kong',
         'contact.person_label': 'Contact Person',
+        'contact.person_name': 'Zhili Wang',
         'contact.email_label': 'Email',
         'contact.wechat_label': 'WeChat',
         'contact.hours_label': 'Office Hours',
@@ -134,11 +124,9 @@ var i18nData = {
         'contact.form_msg': 'Message *',
         'contact.form_submit': 'Submit',
         'contact.form_ok': 'Your information has been submitted successfully. Thank you!',
-        'footer.copy': '\u00a9 2026 Center for Energy Storage (CES), The University of Hong Kong. All rights reserved.'
+        'footer.copy': '\u00a9 2026 Centre for Energy Storage (CES), The University of Hong Kong. All rights reserved.'
     },
     'zh-cn': {
-        'topbar.email': 'fhuang1@hku.hk',
-        'topbar.wechat': '\u5fae\u4fe1: Amy_huang0111',
         'header.title': '\u9999\u6e2f\u5927\u5b66\u50a8\u80fd\u4e2d\u5fc3',
         'nav.home': '\u4e3b\u9875',
         'nav.pub': '\u53d1\u8868\u6587\u732e',
@@ -161,12 +149,12 @@ var i18nData = {
         'abs.title': '\u6c34\u7cfb\u7535\u6c60\u5b9a\u5236\u670d\u52a1',
         'abs.sub1': '\u6c34\u7cfb\u521a\u6027\u58f3\u5168\u7535\u6c60\u670d\u52a1',
         'abs.sub2': '\u6c34\u7cfb\u8f6f\u5305\u7535\u6c60\u670d\u52a1',
-        'abs.sub3': '\u5b9a\u5236\u670d\u52a1',
+        'abs.sub3': '\u670d\u52a1\u8be6\u60c5',
         'abs.sub1_title': '\u6c34\u7cfb\u521a\u6027\u58f3\u5168\u7535\u6c60\u670d\u52a1',
         'abs.sub1_intro1': '\u9274\u4e8e\u5f53\u524d\u5b9e\u9a8c\u5ba4\u7814\u7a76\u6761\u4ef6\u548c\u4e60\u60ef\u7684\u5c40\u9650\u6027\uff0c\u5373\u57fa\u4e8e\u6263\u5f0f\u7535\u6c60\u6216\u5c0f\u5fae\u578b\u8f6f\u5305\u7535\u6c60\u7684\u8bc4\u4ef7\u6a21\u5f0f\uff0c\u5bf9\u63a8\u52a8\u65b0\u5174\u6c34\u7cfb\u7535\u6c60\u5b9e\u7528\u5316\u7684\u6307\u5bfc\u610f\u4e49\u76f8\u5bf9\u7247\u9762\u548c\u7a7a\u6cdb\uff1b\u540c\u65f6\uff0c\u501f\u9274\u5df2\u6210\u529f\u5b9e\u7528\u5316\u7684\u6c34\u7cfb\u7535\u6c60\uff0c\u5c24\u5176\u662f\u9558\u6c22\u7535\u6c60\u548c\u94c5\u9178\u7535\u6c60\u7684\u7ecf\u9a8c\uff0c\u6211\u4eec\u8ba4\u8bc6\u5230\uff1a\u5982\u679c\u7814\u7a76\u4e2d\u7684\u67d0\u4e2a\u6c34\u7cfb\u7535\u6c60\u5177\u5907\u5b9e\u7528\u5316\u7684\u6f5c\u529b\uff0c\u5219\u5e94\u4ee5\u521a\u6027\u58f3\u7535\u6c60\u5448\u73b0\u7684\u53ef\u80fd\u6027\u6700\u5927\u3002',
         'abs.sub1_intro2': '\u521a\u6027\u58f3\u5c01\u88c5\u7684\u5168\u7535\u6c60\u63d0\u4f9b\u5b9e\u7528\u5316\u7684\u57fa\u672c\u95e8\u69db\uff1a\u62e5\u6709\u72ec\u7acb\u7684\u5bc6\u95ed\u7a7a\u95f4\u4ee5\u53ca\u7d27\u88c5\u914d\u7684\u7535\u6c60\u7ed3\u6784\uff0c\u5177\u5907\u8db3\u591f\u7684\u6d3b\u6027\u7269\u8d28\u4f53\u91cf\u548c/\u6216\u53cd\u5e94\u91cf/\u53cd\u5e94\u8fdb\u7a0b/\u5229\u7528\u7387\uff0c\u4ee5\u53ca\u4f20\u8d28\u548c\u96c6\u6d41\u8def\u5f84\u957f\u5ea6\uff0c\u4e14\u57fa\u4e8e\u6709\u9650\u7684\u8fc7\u91cf\u53ca\u7f13\u51b2\u6761\u4ef6\u3002',
         'abs.sub1_intro3': '\u6c34\u7cfb\u521a\u6027\u58f3\u5168\u7535\u6c60\u670d\u52a1\u5e73\u53f0\u4e13\u6ce8\u4e8e\u7814\u7a76\u4e2d\u7684\u7535\u6c60\u8d70\u5411\u5b9e\u7528\u5316\u8fc7\u7a0b\u4e2d\u7684\u5173\u952e\u8fc7\u6e21\u9636\u6bb5\uff0c\u5373\u4ece\u5b9e\u9a8c\u5ba4\u7ea7\u6f14\u793a\u7535\u6c60\u63a8\u8fdb\u81f3\u5c0f\u8bd5\u7ea7\u7535\u6c60\u7684\u9a8c\u8bc1\u548c\u4f18\u5316\u3002\u8be5\u5e73\u53f0\u4e3a\u65b0\u5174\u7684\u6c34\u7cfb\u7535\u6c60\u540e\u6bb5\u7814\u7a76\u63d0\u4f9b\u5168\u9762\u7684\u6280\u672f\u652f\u6301\u670d\u52a1\uff0c\u65e8\u5728\u52a9\u529b\u5e76\u5f15\u5bfc\u5176\u5411\u529f\u80fd\u6027\u7684\u6210\u719f\u8fc8\u8fdb\u3002',
-        'abs.products_label': '\u6211\u4eec\u63d0\u4f9b\u7684\u5de5\u827a/\u7535\u6c60\uff1a',
+        'abs.products_label': '\u4ea7\u54c1\u4e0e\u670d\u52a1',
         'abs.th_product': '\u4ea7\u54c1\u5c55\u793a',
         'abs.th_feature': '\u7279\u5f81\u63cf\u8ff0',
         'abs.th_process': '\u5de5\u827a\u7ec6\u8282\u7b80\u4ecb',
@@ -183,7 +171,7 @@ var i18nData = {
         'abs.r1_p4': '\u9ad8\u7cbe\u5ea6\u590d\u5408',
         'abs.r1_p5': '\u9ad8\u538b\u529b\u7cbe\u5bc6\u8f8a\u538b\u5236\u7247',
         'abs.r1_p6': '\u7ec4\u63a5\u7684\u6781\u8033',
-        'abs.r2_prod': '\u5706\u67f1\u578b\u94a2\u58f3\u7535\u6c60',
+        'abs.r2_prod': '\u5706\u67f1\u7535\u6c60\u5236\u5907\u4e0e\u6d4b\u8bd5',
         'abs.r2_f1': '\u8d85\u9ad8\u5185\u538b\u4e0a\u9650\uff08\u22644 MPa\uff09',
         'abs.r2_f2': '\u591a\u79cd\u89c4\u683c\uff08AA/SC/D/F \u578b\uff09',
         'abs.r2_f3': '\u9ad8/\u4f4e\u5bb9\u91cf\u5b9a\u5236',
@@ -193,7 +181,7 @@ var i18nData = {
         'abs.r2_p2': '\u9540\u9558\u51b7\u8f67\u94a2\u58f3',
         'abs.r2_p3': '\u975e\u78b1\u6027\u4ec5\u652f\u6301\u8d2b\u6db2\u6a21\u5f0f\uff08\u6ce8\u6db2\u91cf\u4f9d\u8d56\u7535\u6781/\u9694\u819c\u5438\u6536\uff09',
         'abs.r2_p4': '\u5f3a\u78b1\u6027\u53ef\u4ee5\u5bcc\u6db2\uff08\u9664\u5438\u6536\u90e8\u5206\u5916\u53ef\u5bcc\u4f59\u7535\u89e3\u6db2\uff09',
-        'abs.r3_prod': '\u65b9\u5f62 ABS \u58f3\u7535\u6c60\uff08\u5355\u4f53\uff09',
+        'abs.r3_prod': '\u65b9\u5f62\u7535\u6c60\uff08\u5355\u7535\u82af\uff09',
         'abs.r3_f1': '\u6ce8\u5851/3D \u6253\u5370',
         'abs.r3_f2': '\u4e0d\u540c\u5c3a\u5bf8\u5b9a\u5236',
         'abs.r3_f3': '\u4e0d\u540c\u5f62\u72b6\u5b9a\u5236\uff08\u63a5\u5f02\u578b\u56fe\u7eb8\uff09',
@@ -203,7 +191,7 @@ var i18nData = {
         'abs.r3_p2': 'ABS \u58f3\u4f53',
         'abs.r3_p3': '\u7ec4\u63a5\u6781\u8033\u548c\u6c47\u6d41\u6392',
         'abs.r3_p4': '\u53ef\u652f\u6301\u9178\u6027/\u4e2d\u6027/\u78b1\u6027\u53ca\u8d2b\u6db2/\u5bcc\u6db2\u7535\u89e3\u6db2',
-        'abs.r4_prod': '\u65b9\u5f62 ABS \u58f3\u7535\u6c60\u7ec4',
+        'abs.r4_prod': '\u65b9\u5f62\u7535\u6c60\uff08\u591a\u7535\u82af\uff09',
         'abs.r4_f1': '\u9ad8\u5f3a\u5ea6\u6ce8\u5851\u58f3',
         'abs.r4_f2': '\u4ee5 6 \u4e32\u7ed3\u6784\u4e3a\u4e3b',
         'abs.r4_f3': '\u4e0d\u540c\u5916\u89c2\u5b9a\u5236\uff08\u989c\u8272\u3001\u8d34\u6807\uff09',
@@ -231,7 +219,7 @@ var i18nData = {
         'abs.p4_f1': '\u9ad8\u5f3a\u5ea6\u5e73\u677f\u5939\u5177',
         'abs.p4_f2': '\u94dd\u5408\u91d1\u677f\u6216\u4e9a\u514b\u529b\u677f',
         'abs.p4_f3': '\u77e9\u5f62\u5f39\u7c27\u538b\u7f29\u63d0\u4f9b\u538b\u529b',
-        'abs.sub3_title': '\u5b9a\u5236\u670d\u52a1',
+        'abs.sub3_title': '\u670d\u52a1\u8be6\u60c5',
         'abs.c_anode_title': '\u5982\u679c\u60a8\u505a\u8d1f\u6781\u76f8\u5173\u7684\u7814\u7a76\uff1a',
         'abs.c_anode_text': '\u6211\u4eec\u53ef\u4ee5\u6309\u60a8\u5236\u5b9a\u7684\u65b9\u6cd5\u53ca\u63d0\u4f9b\u7684\u5173\u952e\u6750\u6599\uff0c\u76f8\u5e94\u5236\u4f5c\u6240\u9700\u89c4\u683c\u7684\u8d1f\u6781\u7247\uff0c\u7136\u540e\u63d0\u4f9b\u5339\u914d\u7684\u6b63\u6781\u7247\uff0c\u5982\u5e38\u89c4\u7684\u4e8c\u6c27\u5316\u9530\u6b63\u6781\u3001\u6c27\u5316\u94d2\u6b63\u6781\u3001\u7898\u6b63\u6781\uff0c\u9558\u6b63\u6781\u7b49\uff0c\u4e5f\u53ef\u4ee5\u5f00\u53d1\u975e\u5e38\u89c4\u7684\u6b63\u6781\uff0c\u5982\u60a8\u6307\u5b9a\u6216\u63d0\u4f9b\u5173\u952e\u6750\u6599\uff08\u9700\u8981\u7a0d\u591a\u4e00\u70b9\u7684\u7535\u6781\u5f00\u53d1\u65f6\u95f4\uff09\u3002\u5176\u4f59\u7ec4\u4ef6\uff0c\u5982\u7535\u89e3\u6db2\u3001\u9694\u819c\u7b49\uff0c\u53ef\u7531\u60a8\u6307\u5b9a\u6216\u63d0\u4f9b\uff0c\u4e5f\u53ef\u4ea4\u7531\u6211\u4eec\u6309\u9700\u5339\u914d\u3002',
         'abs.c_cathode_title': '\u5982\u679c\u60a8\u505a\u6b63\u6781\u76f8\u5173\u7684\u7814\u7a76\uff1a',
@@ -240,23 +228,17 @@ var i18nData = {
         'abs.c_elec_text': '\u60a8\u53ef\u4ee5\u76f4\u63a5\u63d0\u4f9b\u7535\u89e3\u6db2\uff0c\u4e5f\u53ef\u4ee5\u8ba9\u6211\u4eec\u6309\u7167\u60a8\u5236\u5b9a\u7684\u65b9\u6cd5\u53ca\u6307\u5b9a/\u63d0\u4f9b\u7684\u539f\u6599\u4ee3\u4e3a\u914d\u5236\u3002\u6211\u4eec\u53ef\u4ee5\u76f8\u5e94\u63d0\u4f9b\u5982\u4e0a\u5217\u4e3e\u7684\u5e38\u89c4\u6b63\u3001\u8d1f\u6781\u7247\uff0c\u4e5f\u53ef\u4ee5\u5f00\u53d1\u975e\u5e38\u89c4\u7684\u6781\u7247\uff0c\u5982\u60a8\u6307\u5b9a\u6216\u63d0\u4f9b\u5173\u952e\u6750\u6599\uff08\u9700\u8981\u7a0d\u591a\u4e00\u70b9\u7684\u7535\u6781\u5f00\u53d1\u65f6\u95f4\uff09\u3002',
         'abs.c_other_title': '\u5982\u679c\u60a8\u505a\u9694\u819c\u3001\u96c6\u6d41\u4f53\u7b49\u7814\u7a76\uff1a',
         'abs.c_other_text': '\u60a8\u53ef\u4ee5\u76f4\u63a5\u63d0\u4f9b\u7b26\u5408\u5c3a\u5bf8\u9700\u6c42\u7684\u6750\u6599\uff0c\u8ba9\u6211\u4eec\u76f8\u5e94\u63d0\u4f9b\u5982\u4e0a\u5217\u4e3e\u7684\u5e38\u89c4\u6b63\u3001\u8d1f\u6781\u7247\uff0c\u4e5f\u53ef\u4ee5\u8ba9\u6211\u4eec\u5f00\u53d1\u975e\u5e38\u89c4\u7684\u6781\u7247\uff0c\u5982\u60a8\u6307\u5b9a\u6216\u63d0\u4f9b\u5173\u952e\u6750\u6599\uff08\u9700\u8981\u7a0d\u591a\u4e00\u70b9\u7684\u7535\u6781\u5f00\u53d1\u65f6\u95f4\uff09\u3002',
-        'abs.c_cathode_info_prefix': '\u5e38\u89c4\u6b63\u6781\u76f8\u5173\u4fe1\u606f\u8bf7\u89c1',
-        'abs.c_anode_info_prefix': '\u5e38\u89c4\u8d1f\u6781\u76f8\u5173\u4fe1\u606f\u8bf7\u89c1',
-        'abs.c_sep_info_prefix': '\u5e38\u89c4\u9694\u819c\u548c\u96c6\u6d41\u4f53\u4fe1\u606f\u8bf7\u89c1',
-        'abs.c_click': 'Click',
-        'modal.uc_title': '\u9875\u9762\u5efa\u8bbe\u4e2d',
-        'modal.uc_text': '\u8be5\u9875\u9762\u6b63\u5728\u5efa\u8bbe\u4e2d\uff0c\u8bf7\u7a0d\u540e\u518d\u6765\u67e5\u770b\u3002',
-        'abs.c_note': '\u203b\u4ee5\u4e0a\u6240\u6d89\u53ca\u7684\u5173\u952e\u6750\u6599\u53ca\u975e\u5173\u952e\u6750\u6599\uff08\u8f85\u6599\uff09\uff0c\u5747\u53ef\u7531\u60a8\u63d0\u4f9b\u3001\u6307\u5b9a\u4ee5\u53ca\u6211\u4eec\u81ea\u4e3b\u91c7\u8d2d\u7b49\u65b9\u5f0f\u7075\u6d3b\u8fdb\u884c\uff1b\u7535\u6c60\u5b9a\u5236\u7684\u6574\u4e2a\u5468\u671f\u5305\u62ec\u4fe1\u606f\u6c9f\u901a\u53ca\u5de5\u827a\u5b9a\u7a3f\u65f6\u95f4\u3001\u6750\u6599\u5c31\u4f4d\u7684\u5fc5\u8981\u65f6\u95f4\u3001\u975e\u5e38\u89c4\u7535\u6781\u7684\u989d\u5916\u5f00\u53d1\u65f6\u95f4\u3001\u7535\u6c60\u5236\u9020\u5468\u671f\u3001\u6d4b\u8bd5\u5468\u671f\u7b49\u3002',
         'abs.c_contact_title': '\u5f00\u542f\u4e00\u5bf9\u4e00\u7684\u5b9a\u5236\u670d\u52a1\uff1a',
-        'abs.c_contact_name': 'Ms. Amy, F. Huang',
+        'abs.c_contact_name': '\u738b\u5fd7\u529b',
         'abs.c_contact_email_label': '\u90ae\u7bb1',
-        'abs.c_contact_email': 'fhuang1@hku.hk',
+        'abs.c_contact_email': '',
         'abs.c_contact_wechat_label': '\u5fae\u4fe1',
-        'abs.c_contact_wechat': 'Amy_huang0111',
+        'abs.c_contact_wechat': '',
         'contact.title': '\u8054\u7cfb\u6211\u4eec',
         'contact.center_name': '\u9999\u6e2f\u5927\u5b66\u50a8\u80fd\u4e2d\u5fc3 (CES)',
         'contact.univ': '\u9999\u6e2f\u5927\u5b66',
         'contact.person_label': '\u8054\u7cfb\u4eba',
+        'contact.person_name': '\u738b\u5fd7\u529b',
         'contact.email_label': '\u7535\u5b50\u90ae\u7bb1',
         'contact.wechat_label': '\u5fae\u4fe1',
         'contact.hours_label': '\u529e\u516c\u65f6\u95f4',
@@ -273,8 +255,6 @@ var i18nData = {
         'footer.copy': '\u00a9 2026 \u9999\u6e2f\u5927\u5b66\u50a8\u80fd\u4e2d\u5fc3 (CES) \u7248\u6743\u6240\u6709'
     },
     'zh-tw': {
-        'topbar.email': 'fhuang1@hku.hk',
-        'topbar.wechat': '\u5fae\u4fe1: Amy_huang0111',
         'header.title': '\u9999\u6e2f\u5927\u5b78\u5132\u80fd\u4e2d\u5fc3',
         'nav.home': '\u4e3b\u9801',
         'nav.pub': '\u767c\u8868\u6587\u737b',
@@ -297,12 +277,12 @@ var i18nData = {
         'abs.title': '\u6c34\u7cfb\u96fb\u6c60\u5b9a\u5236\u670d\u52d9',
         'abs.sub1': '\u6c34\u7cfb\u525b\u6027\u6bbc\u5168\u96fb\u6c60\u670d\u52d9',
         'abs.sub2': '\u6c34\u7cfb\u8edf\u5305\u96fb\u6c60\u670d\u52d9',
-        'abs.sub3': '\u5b9a\u5236\u670d\u52d9',
+        'abs.sub3': '\u670d\u52d9\u8a73\u60c5',
         'abs.sub1_title': '\u6c34\u7cfb\u525b\u6027\u6bbc\u5168\u96fb\u6c60\u670d\u52d9',
         'abs.sub1_intro1': '\u9451\u65bc\u7576\u524d\u5be6\u9a57\u5ba4\u7814\u7a76\u689d\u4ef6\u548c\u7fd2\u6163\u7684\u5c40\u9650\u6027\uff0c\u5373\u57fa\u65bc\u6263\u5f0f\u96fb\u6c60\u6216\u5c0f\u5fae\u578b\u8edf\u5305\u96fb\u6c60\u7684\u8a55\u50f9\u6a21\u5f0f\uff0c\u5c0d\u63a8\u52d5\u65b0\u8208\u6c34\u7cfb\u96fb\u6c60\u5be6\u7528\u5316\u7684\u6307\u5c0e\u610f\u7fa9\u76f8\u5c0d\u7247\u9762\u548c\u7a7a\u6cdb\uff1b\u540c\u6642\uff0c\u501f\u9451\u5df2\u6210\u529f\u5be6\u7528\u5316\u7684\u6c34\u7cfb\u96fb\u6c60\uff0c\u5c24\u5176\u662f\u93b3\u6c2b\u96fb\u6c60\u548c\u925b\u9178\u96fb\u6c60\u7684\u7d93\u9a57\uff0c\u6211\u5011\u8a8d\u8b58\u5230\uff1a\u5982\u679c\u7814\u7a76\u4e2d\u7684\u67d0\u500b\u6c34\u7cfb\u96fb\u6c60\u5177\u5099\u5be6\u7528\u5316\u7684\u6f5b\u529b\uff0c\u5247\u61c9\u4ee5\u525b\u6027\u6bbc\u96fb\u6c60\u5448\u73fe\u7684\u53ef\u80fd\u6027\u6700\u5927\u3002',
         'abs.sub1_intro2': '\u525b\u6027\u6bbc\u5c01\u88dd\u7684\u5168\u96fb\u6c60\u63d0\u4f9b\u5be6\u7528\u5316\u7684\u57fa\u672c\u9580\u6abb\uff1a\u64c1\u6709\u7368\u7acb\u7684\u5bc6\u9589\u7a7a\u9593\u4ee5\u53ca\u7dca\u88dd\u914d\u7684\u96fb\u6c60\u7d50\u69cb\uff0c\u5177\u5099\u8db3\u5920\u7684\u6d3b\u6027\u7269\u8cea\u9ad4\u91cf\u548c/\u6216\u53cd\u61c9\u91cf/\u53cd\u61c9\u9032\u7a0b/\u5229\u7528\u7387\uff0c\u4ee5\u53ca\u50b3\u8cea\u548c\u96c6\u6d41\u8def\u5f91\u9577\u5ea6\uff0c\u4e14\u57fa\u65bc\u6709\u9650\u7684\u904e\u91cf\u53ca\u7de9\u885d\u689d\u4ef6\u3002',
         'abs.sub1_intro3': '\u6c34\u7cfb\u525b\u6027\u6bbc\u5168\u96fb\u6c60\u670d\u52d9\u5e73\u53f0\u5c08\u6ce8\u65bc\u7814\u7a76\u4e2d\u7684\u96fb\u6c60\u8d70\u5411\u5be6\u7528\u5316\u904e\u7a0b\u4e2d\u7684\u95dc\u9375\u904e\u6e21\u968e\u6bb5\uff0c\u5373\u5f9e\u5be6\u9a57\u5ba4\u7d1a\u6f14\u793a\u96fb\u6c60\u63a8\u9032\u81f3\u5c0f\u8a66\u7d1a\u96fb\u6c60\u7684\u9a57\u8b49\u548c\u512a\u5316\u3002\u8a72\u5e73\u53f0\u70ba\u65b0\u8208\u7684\u6c34\u7cfb\u96fb\u6c60\u5f8c\u6bb5\u7814\u7a76\u63d0\u4f9b\u5168\u9762\u7684\u6280\u8853\u652f\u6301\u670d\u52d9\uff0c\u65e8\u5728\u52a9\u529b\u4e26\u5f15\u5c0e\u5176\u5411\u529f\u80fd\u6027\u7684\u6210\u719f\u9081\u9032\u3002',
-        'abs.products_label': '\u6211\u5011\u63d0\u4f9b\u7684\u5de5\u85dd/\u96fb\u6c60\uff1a',
+        'abs.products_label': '\u7522\u54c1\u8207\u670d\u52d9',
         'abs.th_product': '\u7522\u54c1\u5c55\u793a',
         'abs.th_feature': '\u7279\u5fb5\u63cf\u8ff0',
         'abs.th_process': '\u5de5\u85dd\u7d30\u7bc0\u7c21\u4ecb',
@@ -319,7 +299,7 @@ var i18nData = {
         'abs.r1_p4': '\u9ad8\u7cbe\u5ea6\u8907\u5408',
         'abs.r1_p5': '\u9ad8\u58d3\u529b\u7cbe\u5bc6\u8f25\u58d3\u88fd\u7247',
         'abs.r1_p6': '\u7d44\u63a5\u7684\u6975\u8033',
-        'abs.r2_prod': '\u5713\u67f1\u578b\u92fc\u6bbc\u96fb\u6c60',
+        'abs.r2_prod': '\u5713\u67f1\u96fb\u6c60\u88fd\u5099\u8207\u6e2c\u8a66',
         'abs.r2_f1': '\u8d85\u9ad8\u5167\u58d3\u4e0a\u9650\uff08\u22644 MPa\uff09',
         'abs.r2_f2': '\u591a\u7a2e\u898f\u683c\uff08AA/SC/D/F \u578b\uff09',
         'abs.r2_f3': '\u9ad8/\u4f4e\u5bb9\u91cf\u5b9a\u5236',
@@ -329,7 +309,7 @@ var i18nData = {
         'abs.r2_p2': '\u93a1\u93b3\u51b7\u8ecb\u92fc\u6bbc',
         'abs.r2_p3': '\u975e\u9e7c\u6027\u50c5\u652f\u6301\u8ca7\u6db2\u6a21\u5f0f\uff08\u6ce8\u6db2\u91cf\u4f9d\u8cf4\u96fb\u6975/\u9694\u819c\u5438\u6536\uff09',
         'abs.r2_p4': '\u5f37\u9e7c\u6027\u53ef\u4ee5\u5bcc\u6db2\uff08\u9664\u5438\u6536\u90e8\u5206\u5916\u53ef\u5bcc\u9918\u96fb\u89e3\u6db2\uff09',
-        'abs.r3_prod': '\u65b9\u5f62 ABS \u6bbc\u96fb\u6c60\uff08\u55ae\u9ad4\uff09',
+        'abs.r3_prod': '\u65b9\u5f62\u96fb\u6c60\uff08\u55ae\u96fb\u82af\uff09',
         'abs.r3_f1': '\u6ce8\u5851/3D \u5217\u5370',
         'abs.r3_f2': '\u4e0d\u540c\u5c3a\u5bf8\u5b9a\u5236',
         'abs.r3_f3': '\u4e0d\u540c\u5f62\u72c0\u5b9a\u5236\uff08\u63a5\u7570\u578b\u5716\u7d19\uff09',
@@ -339,7 +319,7 @@ var i18nData = {
         'abs.r3_p2': 'ABS \u6bbc\u9ad4',
         'abs.r3_p3': '\u7d44\u63a5\u6975\u8033\u548c\u532f\u6d41\u6392',
         'abs.r3_p4': '\u53ef\u652f\u63f4\u9178\u6027/\u4e2d\u6027/\u9e7c\u6027\u53ca\u8ca7\u6db2/\u5bcc\u6db2\u96fb\u89e3\u6db2',
-        'abs.r4_prod': '\u65b9\u5f62 ABS \u6bbc\u96fb\u6c60\u7d44',
+        'abs.r4_prod': '\u65b9\u5f62\u96fb\u6c60\uff08\u591a\u96fb\u82af\uff09',
         'abs.r4_f1': '\u9ad8\u5f37\u5ea6\u6ce8\u5851\u6bbc',
         'abs.r4_f2': '\u4ee5 6 \u4e32\u7d50\u69cb\u70ba\u4e3b',
         'abs.r4_f3': '\u4e0d\u540c\u5916\u89c0\u5b9a\u5236\uff08\u984f\u8272\u3001\u8cbc\u6a19\uff09',
@@ -367,7 +347,7 @@ var i18nData = {
         'abs.p4_f1': '\u9ad8\u5f37\u5ea6\u5e73\u677f\u593e\u5177',
         'abs.p4_f2': '\u92c1\u5408\u91d1\u677f\u6216\u58d3\u514b\u529b\u677f',
         'abs.p4_f3': '\u77e9\u5f62\u5f48\u7c27\u58d3\u7e2e\u63d0\u4f9b\u58d3\u529b',
-        'abs.sub3_title': '\u5b9a\u5236\u670d\u52d9',
+        'abs.sub3_title': '\u670d\u52d9\u8a73\u60c5',
         'abs.c_anode_title': '\u5982\u679c\u60a8\u505a\u8ca0\u6975\u76f8\u95dc\u7684\u7814\u7a76\uff1a',
         'abs.c_anode_text': '\u6211\u5011\u53ef\u4ee5\u6309\u60a8\u5236\u5b9a\u7684\u65b9\u6cd5\u53ca\u63d0\u4f9b\u7684\u95dc\u9375\u6750\u6599\uff0c\u76f8\u61c9\u88fd\u4f5c\u6240\u9700\u898f\u683c\u7684\u8ca0\u6975\u7247\uff0c\u7136\u5f8c\u63d0\u4f9b\u5339\u914d\u7684\u6b63\u6975\u7247\uff0c\u5982\u5e38\u898f\u7684\u4e8c\u6c27\u5316\u9330\u6b63\u6975\u3001\u6c27\u5316\u91e9\u6b63\u6975\u3001\u7898\u6b63\u6975\uff0c\u93b3\u6b63\u6975\u7b49\uff0c\u4e5f\u53ef\u4ee5\u958b\u767c\u975e\u5e38\u898f\u7684\u6b63\u6975\uff0c\u5982\u60a8\u6307\u5b9a\u6216\u63d0\u4f9b\u95dc\u9375\u6750\u6599\uff08\u9700\u8981\u7a0d\u591a\u4e00\u9ede\u7684\u96fb\u6975\u958b\u767c\u6642\u9593\uff09\u3002\u5176\u9918\u7d44\u4ef6\uff0c\u5982\u96fb\u89e3\u6db2\u3001\u9694\u819c\u7b49\uff0c\u53ef\u7531\u60a8\u6307\u5b9a\u6216\u63d0\u4f9b\uff0c\u4e5f\u53ef\u4ea4\u7531\u6211\u5011\u6309\u9700\u5339\u914d\u3002',
         'abs.c_cathode_title': '\u5982\u679c\u60a8\u505a\u6b63\u6975\u76f8\u95dc\u7684\u7814\u7a76\uff1a',
@@ -376,23 +356,17 @@ var i18nData = {
         'abs.c_elec_text': '\u60a8\u53ef\u4ee5\u76f4\u63a5\u63d0\u4f9b\u96fb\u89e3\u6db2\uff0c\u4e5f\u53ef\u4ee5\u8b93\u6211\u5011\u6309\u7167\u60a8\u5236\u5b9a\u7684\u65b9\u6cd5\u53ca\u6307\u5b9a/\u63d0\u4f9b\u7684\u539f\u6599\u4ee3\u70ba\u914d\u5236\u3002\u6211\u5011\u53ef\u4ee5\u76f8\u61c9\u63d0\u4f9b\u5982\u4e0a\u5217\u8209\u7684\u5e38\u898f\u6b63\u3001\u8ca0\u6975\u7247\uff0c\u4e5f\u53ef\u4ee5\u958b\u767c\u975e\u5e38\u898f\u7684\u6975\u7247\uff0c\u5982\u60a8\u6307\u5b9a\u6216\u63d0\u4f9b\u95dc\u9375\u6750\u6599\uff08\u9700\u8981\u7a0d\u591a\u4e00\u9ede\u7684\u96fb\u6975\u958b\u767c\u6642\u9593\uff09\u3002',
         'abs.c_other_title': '\u5982\u679c\u60a8\u505a\u9694\u819c\u3001\u96c6\u6d41\u9ad4\u7b49\u7814\u7a76\uff1a',
         'abs.c_other_text': '\u60a8\u53ef\u4ee5\u76f4\u63a5\u63d0\u4f9b\u7b26\u5408\u5c3a\u5bf8\u9700\u6c42\u7684\u6750\u6599\uff0c\u8b93\u6211\u5011\u76f8\u61c9\u63d0\u4f9b\u5982\u4e0a\u5217\u8209\u7684\u5e38\u898f\u6b63\u3001\u8ca0\u6975\u7247\uff0c\u4e5f\u53ef\u4ee5\u8b93\u6211\u5011\u958b\u767c\u975e\u5e38\u898f\u7684\u6975\u7247\uff0c\u5982\u60a8\u6307\u5b9a\u6216\u63d0\u4f9b\u95dc\u9375\u6750\u6599\uff08\u9700\u8981\u7a0d\u591a\u4e00\u9ede\u7684\u96fb\u6975\u958b\u767c\u6642\u9593\uff09\u3002',
-        'abs.c_cathode_info_prefix': '\u5e38\u898f\u6b63\u6975\u76f8\u95dc\u8cc7\u8a0a\u8acb\u898b',
-        'abs.c_anode_info_prefix': '\u5e38\u898f\u8ca0\u6975\u76f8\u95dc\u8cc7\u8a0a\u8acb\u898b',
-        'abs.c_sep_info_prefix': '\u5e38\u898f\u9694\u819c\u548c\u96c6\u6d41\u9ad4\u8cc7\u8a0a\u8acb\u898b',
-        'abs.c_click': 'Click',
-        'modal.uc_title': '\u9801\u9762\u5efa\u8a2d\u4e2d',
-        'modal.uc_text': '\u8a72\u9801\u9762\u6b63\u5728\u5efa\u8a2d\u4e2d\uff0c\u8acb\u7a0d\u5f8c\u518d\u4f86\u67e5\u770b\u3002',
-        'abs.c_note': '\u203b\u4ee5\u4e0a\u6240\u6d89\u53ca\u7684\u95dc\u9375\u6750\u6599\u53ca\u975e\u95dc\u9375\u6750\u6599\uff08\u8f14\u6599\uff09\uff0c\u5747\u53ef\u7531\u60a8\u63d0\u4f9b\u3001\u6307\u5b9a\u4ee5\u53ca\u6211\u5011\u81ea\u4e3b\u63a1\u8cfc\u7b49\u65b9\u5f0f\u9748\u6d3b\u9032\u884c\uff1b\u96fb\u6c60\u5b9a\u5236\u7684\u6574\u500b\u9031\u671f\u5305\u62ec\u8cc7\u8a0a\u6e9d\u901a\u53ca\u5de5\u85dd\u5b9a\u7a3f\u6642\u9593\u3001\u6750\u6599\u5c31\u4f4d\u7684\u5fc5\u8981\u6642\u9593\u3001\u975e\u5e38\u898f\u96fb\u6975\u7684\u984d\u5916\u958b\u767c\u6642\u9593\u3001\u96fb\u6c60\u88fd\u9020\u9031\u671f\u3001\u6e2c\u8a66\u9031\u671f\u7b49\u3002',
         'abs.c_contact_title': '\u958b\u555f\u4e00\u5c0d\u4e00\u7684\u5b9a\u5236\u670d\u52d9\uff1a',
-        'abs.c_contact_name': 'Ms. Amy, F. Huang',
+        'abs.c_contact_name': '\u738b\u5fd7\u529b',
         'abs.c_contact_email_label': '\u90f5\u7bb1',
-        'abs.c_contact_email': 'fhuang1@hku.hk',
+        'abs.c_contact_email': '',
         'abs.c_contact_wechat_label': '\u5fae\u4fe1',
-        'abs.c_contact_wechat': 'Amy_huang0111',
+        'abs.c_contact_wechat': '',
         'contact.title': '\u806f\u7d61\u6211\u5011',
         'contact.center_name': '\u9999\u6e2f\u5927\u5b78\u5132\u80fd\u4e2d\u5fc3 (CES)',
         'contact.univ': '\u9999\u6e2f\u5927\u5b78',
         'contact.person_label': '\u806f\u7d61\u4eba',
+        'contact.person_name': '\u738b\u5fd7\u529b',
         'contact.email_label': '\u96fb\u5b50\u90f5\u7bb1',
         'contact.wechat_label': '\u5fae\u4fe1',
         'contact.hours_label': '\u8fa6\u516c\u6642\u9593',
@@ -437,9 +411,6 @@ function setLanguage(lang) {
                 el.style.removeProperty('margin');
                 el.style.removeProperty('overflow');
                 el.classList.remove('hidden-item');
-            }
-            if (key === 'abs.c_contact_email' && el.tagName === 'A') {
-                el.setAttribute('href', 'mailto:' + translations[key]);
             }
         }
     });
@@ -543,28 +514,4 @@ document.addEventListener('DOMContentLoaded', function () {
         });
     }
 
-    /* Info modal (under construction) */
-    var modal = document.getElementById('info-modal');
-    var modalClose = document.getElementById('info-modal-close');
-
-    document.querySelectorAll('.info-link').forEach(function (link) {
-        link.addEventListener('click', function (e) {
-            e.preventDefault();
-            modal.classList.add('active');
-        });
-    });
-
-    if (modalClose) {
-        modalClose.addEventListener('click', function () {
-            modal.classList.remove('active');
-        });
-    }
-
-    if (modal) {
-        modal.addEventListener('click', function (e) {
-            if (e.target === modal) {
-                modal.classList.remove('active');
-            }
-        });
-    }
 });

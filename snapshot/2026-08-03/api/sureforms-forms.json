@@ -1,0 +1,74 @@
+[
+  {
+    "_links": {
+      "about": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/types/sureforms_form"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/users/3"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/sureforms_form"
+        }
+      ],
+      "curies": [
+        {
+          "href": "https://api.w.org/{rel}",
+          "name": "wp",
+          "templated": true
+        }
+      ],
+      "self": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/sureforms_form/2608",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=2608"
+        }
+      ]
+    },
+    "author": 3,
+    "class_list": [
+      "post-2608",
+      "sureforms_form",
+      "type-sureforms_form",
+      "status-publish",
+      "hentry",
+      "en-US"
+    ],
+    "content": {
+      "protected": false,
+      "rendered": "\t\t\t<div data-block-id=\"50d7f9ed\" class=\"srfm-block-single srfm-block srfm-input-block srf-input-50d7f9ed-block  srfm-block-width-100 srfm-slug-text-field 2608\" >\n\t\t\t\t\t\t\t\t\t\t<div class=\"srfm-block-wrap\">\n\t\t\t\t<input class=\"srfm-input-common srfm-input-input\" type=\"text\" name=\"srfm-input-50d7f9ed-lbl-WW91ciBOYW1l-text-field\" id=\"srfm-input-50d7f9ed-lbl-WW91ciBOYW1l\"\n\t\t\t\t\taria-describedby='srfm-error-50d7f9ed'\t\t\t\t\tdata-required=\"true\" aria-required=\"true\" data-unique=\"false\" maxlength=\"100\" value=\"\"  placeholder=\"Your Name *\"  data-srfm-mask=\"none\"   />\n\t\t\t\t</div>\n\t\t\t\t<div class=\"srfm-error-wrap\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"srfm-error-message\" data-srfm-id=\"srfm-error-50d7f9ed\" data-error-msg=\"This field is required.\" data-unique-msg=\"Value needs to be unique.\">\n\t\t\t\t\t\tThis field is required.\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\n\n\t\t\t<div data-block-id=\"03cb075b\" class=\"srfm-block-single srfm-block srfm-email-block srf-email-03cb075b-block  srfm-block-width-100 srfm-slug-your-email 2608 srfm-email-block-wrap\">\n\t\t\t\t<div class=\"srfm-email-block srf-email-03cb075b-block\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"srfm-block-wrap\">\n\t\t\t\t\t\t<input class=\"srfm-input-common srfm-input-email\" type=\"email\" name=\"srfm-email-03cb075b-lbl-WW91ciBFbWFpbA-your-email\" id=\"srfm-email-03cb075b-lbl-WW91ciBFbWFpbA\"\n\t\t\t\t\t\taria-describedby='srfm-error-03cb075b'\t\t\t\t\t\tdata-required=\"true\" aria-required=\"true\" data-unique=\"false\" value=\"\"  placeholder=\"Your Email *\"   />\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"srfm-error-wrap\">\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"srfm-error-message\" data-srfm-id=\"srfm-error-03cb075b\" data-error-msg=\"This field is required.\" data-unique-msg=\"Value needs to be unique.\">\n\t\t\t\t\t\tThis field is required.\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\n\n\t\t<div data-block-id=\"1edd7d50\" class=\"srfm-block-single srfm-block srfm-textarea-block srf-textarea-1edd7d50-block  srfm-block-width-100 2608\">\n\t\t\t\t\t\t\t\t\t<div class=\"srfm-block-wrap\">\n\t\t\t\t<textarea\n\t\t\t\t\tclass=\"srfm-input-common srfm-input-textarea\"\n\t\t\t\t\tname=\"srfm-textarea-1edd7d50-lbl-WW91ciBNZXNzYWdl-your-messaage\"\n\t\t\t\t\tid=\"srfm-textarea-1edd7d50-lbl-WW91ciBNZXNzYWdl-1189\"\n\t\t\t\t\taria-describedby='srfm-error-1edd7d50'\t\t\t\t\tdata-required=\"false\" aria-required=\"false\"  rows=\"4\"   placeholder=\"Your Message\" \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t></textarea>\n\t\t\t\t\t\t\t</div>\n\t\t\t<div class=\"srfm-error-wrap\">\n\t\t\t\t\t\t\t</div>\n\t\t</div>\n\n\t\t"
+    },
+    "date": "2026-03-16T13:41:19",
+    "date_gmt": "2026-03-16T05:41:19",
+    "guid": {
+      "rendered": "https://ces.hku.hk/form/simple-contact-form/"
+    },
+    "id": 2608,
+    "link": "https://ces.hku.hk/?sureforms_form=simple-contact-form",
+    "meta": [],
+    "modified": "2026-03-16T13:41:19",
+    "modified_gmt": "2026-03-16T05:41:19",
+    "slug": "simple-contact-form",
+    "status": "publish",
+    "template": "",
+    "title": {
+      "rendered": "Simple Contact Form"
+    },
+    "type": "sureforms_form"
+  }
+]

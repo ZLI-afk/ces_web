@@ -1,0 +1,517 @@
+[
+  {
+    "_links": {
+      "about": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/users/3"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/pages"
+        }
+      ],
+      "curies": [
+        {
+          "href": "https://api.w.org/{rel}",
+          "name": "wp",
+          "templated": true
+        }
+      ],
+      "predecessor-version": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/pages/2714/revisions/2716",
+          "id": 2716
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ces.hku.hk/index.php?rest_route=%2Fwp%2Fv2%2Fcomments&post=2714"
+        }
+      ],
+      "self": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/pages/2714",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/pages/2714/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=2714"
+        }
+      ]
+    },
+    "author": 3,
+    "class_list": [
+      "post-2714",
+      "page",
+      "type-page",
+      "status-publish",
+      "hentry",
+      "en-US"
+    ],
+    "comment_status": "closed",
+    "content": {
+      "protected": false,
+      "rendered": ""
+    },
+    "date": "2026-03-20T10:56:36",
+    "date_gmt": "2026-03-20T02:56:36",
+    "excerpt": {
+      "protected": false,
+      "rendered": ""
+    },
+    "featured_media": 0,
+    "guid": {
+      "rendered": "https://ces.hku.hk/?page_id=2714"
+    },
+    "id": 2714,
+    "link": "https://ces.hku.hk/?page_id=2714",
+    "menu_order": 0,
+    "meta": {
+      "_locale": "en_US",
+      "_original_post": "https://ces.hku.hk/?page_id=2714",
+      "footnotes": ""
+    },
+    "modified": "2026-03-20T10:56:36",
+    "modified_gmt": "2026-03-20T02:56:36",
+    "parent": 0,
+    "ping_status": "closed",
+    "slug": "aqueous-battery-service",
+    "status": "publish",
+    "template": "",
+    "title": {
+      "rendered": "Aqueous Battery Service"
+    },
+    "type": "page"
+  },
+  {
+    "_links": {
+      "about": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/users/3"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/pages"
+        }
+      ],
+      "curies": [
+        {
+          "href": "https://api.w.org/{rel}",
+          "name": "wp",
+          "templated": true
+        }
+      ],
+      "predecessor-version": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/pages/25/revisions/2697",
+          "id": 2697
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ces.hku.hk/index.php?rest_route=%2Fwp%2Fv2%2Fcomments&post=25"
+        }
+      ],
+      "self": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/pages/25",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "version-history": [
+        {
+          "count": 21,
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/pages/25/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=25"
+        }
+      ]
+    },
+    "author": 3,
+    "class_list": [
+      "post-25",
+      "page",
+      "type-page",
+      "status-publish",
+      "hentry",
+      "en-US"
+    ],
+    "comment_status": "closed",
+    "content": {
+      "protected": false,
+      "rendered": "\t\t<div data-elementor-type=\"wp-post\" data-elementor-id=\"25\" class=\"elementor elementor-25\">\n\t\t\t\t<div class=\"elementor-element elementor-element-e6fe184 e-flex e-con-boxed e-con e-parent\" data-id=\"e6fe184\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-b80fd31 hfe-nav-menu__align-right hfe-nav-menu__breakpoint-none hfe-submenu-icon-arrow hfe-submenu-animation-none hfe-link-redirect-child elementor-widget elementor-widget-navigation-menu\" data-id=\"b80fd31\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;padding_horizontal_menu_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:18,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:18,&quot;sizes&quot;:[]},&quot;menu_space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;menu_row_space&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;padding_horizontal_menu_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_menu_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;dropdown_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;dropdown_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;dropdown_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;width_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;220&quot;,&quot;sizes&quot;:[]},&quot;width_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;width_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}\" data-widget_type=\"navigation-menu.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t<div class=\"hfe-nav-menu hfe-layout-horizontal hfe-nav-menu-layout horizontal hfe-pointer__underline hfe-animation__none\" data-layout=\"horizontal\">\n\t\t\t\t<div role=\"button\" class=\"hfe-nav-menu__toggle elementor-clickable\" tabindex=\"0\" aria-label=\"Menu Toggle\">\n\t\t\t\t\t<span class=\"screen-reader-text\">Menu</span>\n\t\t\t\t\t<div class=\"hfe-nav-menu-icon\">\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<nav class=\"hfe-nav-menu__layout-horizontal hfe-nav-menu__submenu-arrow\" data-toggle-icon=\"\" data-close-icon=\"\" data-full-width=\"\">\n\t\t\t\t\t<ul id=\"menu-1-b80fd31\" class=\"hfe-nav-menu\"><li id=\"menu-item-2680\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-home parent hfe-creative-menu\"><a href=\"https://ces.hku.hk/\" class = \"hfe-menu-item\">Homepage</a></li>\n<li id=\"menu-item-2686\" class=\"menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu\"><a href=\"https://ces.hku.hk/?page_id=21\" class = \"hfe-menu-item\">Publications</a></li>\n<li id=\"menu-item-2717\" class=\"menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu\"><a href=\"https://ces.hku.hk/?page_id=2714\" class = \"hfe-menu-item\">Aqueous Battery Service</a></li>\n<li id=\"menu-item-2685\" class=\"menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu\"><a href=\"https://ces.hku.hk/?page_id=25\" class = \"hfe-menu-item\">Contact</a></li>\n</ul> \n\t\t\t\t</nav>\n\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-1bf3f76 e-flex e-con-boxed e-con e-parent\" data-id=\"1bf3f76\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t<div class=\"elementor-element elementor-element-d1a1559 e-con-full e-flex e-con e-child\" data-id=\"d1a1559\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-5cb8f9a elementor-widget elementor-widget-image\" data-id=\"5cb8f9a\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img fetchpriority=\"high\" decoding=\"async\" width=\"320\" height=\"286\" src=\"https://ces.hku.hk/wp-content/uploads/2026/03/doodle-contact-communication-stickers-collection_23-2150813663.jpg\" class=\"attachment-large size-large wp-image-2674\" alt=\"Doodle Contact Communication Stickers Collection 23 2150813663\" srcset=\"https://ces.hku.hk/wp-content/uploads/2026/03/doodle-contact-communication-stickers-collection_23-2150813663.jpg 320w, https://ces.hku.hk/wp-content/uploads/2026/03/doodle-contact-communication-stickers-collection_23-2150813663-300x268.jpg 300w\" sizes=\"(max-width: 320px) 100vw, 320px\" title=\"Contact\">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-f9a1c08 e-con-full e-flex e-con e-child\" data-id=\"f9a1c08\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-8480931 elementor-widget elementor-widget-text-editor\" data-id=\"8480931\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<h5><strong><span style=\"color: #ff00ff;\">Ms. Amy, F. Huang</span></strong></h5><p>Email: fhuang1@hku.hk</p><p>WeChat: Amy_huang0111</p><p>(office time 9:30 &#8211; 18:00, Time zone: GMT+8; Monday to Friday)</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t"
+    },
+    "date": "2026-03-16T13:41:19",
+    "date_gmt": "2026-03-16T05:41:19",
+    "excerpt": {
+      "protected": false,
+      "rendered": "<p>Menu Homepage Publications Contact Ms. Amy, F. Huang Email: fhuang1@hku.hk WeChat: Amy_huang0111 (office time 9:30 &#8211; 18:00, Time zone: GMT+8; Monday to Friday)</p>\n"
+    },
+    "featured_media": 0,
+    "guid": {
+      "rendered": "https://ces.hku.hk/contact/"
+    },
+    "id": 25,
+    "link": "https://ces.hku.hk/?page_id=25",
+    "menu_order": 0,
+    "meta": {
+      "_locale": "",
+      "_original_post": "",
+      "footnotes": ""
+    },
+    "modified": "2026-03-16T17:46:50",
+    "modified_gmt": "2026-03-16T09:46:50",
+    "parent": 0,
+    "ping_status": "closed",
+    "slug": "contact",
+    "status": "publish",
+    "template": "",
+    "title": {
+      "rendered": "Contact"
+    },
+    "type": "page"
+  },
+  {
+    "_links": {
+      "about": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/users/3"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/pages"
+        }
+      ],
+      "curies": [
+        {
+          "href": "https://api.w.org/{rel}",
+          "name": "wp",
+          "templated": true
+        }
+      ],
+      "predecessor-version": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/pages/21/revisions/2710",
+          "id": 2710
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ces.hku.hk/index.php?rest_route=%2Fwp%2Fv2%2Fcomments&post=21"
+        }
+      ],
+      "self": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/pages/21",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "version-history": [
+        {
+          "count": 22,
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/pages/21/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=21"
+        }
+      ]
+    },
+    "author": 3,
+    "class_list": [
+      "post-21",
+      "page",
+      "type-page",
+      "status-publish",
+      "hentry",
+      "en-US"
+    ],
+    "comment_status": "closed",
+    "content": {
+      "protected": false,
+      "rendered": "\t\t<div data-elementor-type=\"wp-post\" data-elementor-id=\"21\" class=\"elementor elementor-21\">\n\t\t\t\t<div class=\"elementor-element elementor-element-303b119 e-flex e-con-boxed e-con e-parent\" data-id=\"303b119\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-9ffe983 hfe-nav-menu__align-left hfe-submenu-icon-arrow hfe-submenu-animation-none hfe-link-redirect-child hfe-nav-menu__breakpoint-tablet elementor-widget elementor-widget-navigation-menu\" data-id=\"9ffe983\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;padding_horizontal_menu_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:18,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:18,&quot;sizes&quot;:[]},&quot;padding_horizontal_menu_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_menu_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;dropdown_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;dropdown_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;dropdown_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;width_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;220&quot;,&quot;sizes&quot;:[]},&quot;width_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;width_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}\" data-widget_type=\"navigation-menu.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t<div class=\"hfe-nav-menu hfe-layout-horizontal hfe-nav-menu-layout horizontal hfe-pointer__underline hfe-animation__none\" data-layout=\"horizontal\">\n\t\t\t\t<div role=\"button\" class=\"hfe-nav-menu__toggle elementor-clickable\" tabindex=\"0\" aria-label=\"Menu Toggle\">\n\t\t\t\t\t<span class=\"screen-reader-text\">Menu</span>\n\t\t\t\t\t<div class=\"hfe-nav-menu-icon\">\n\t\t\t\t\t\t<i aria-hidden=\"true\"  class=\"fas fa-align-justify\"></i>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<nav class=\"hfe-nav-menu__layout-horizontal hfe-nav-menu__submenu-arrow\" data-toggle-icon=\"&lt;i aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;fas fa-align-justify&quot;&gt;&lt;/i&gt;\" data-close-icon=\"&lt;i aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;far fa-window-close&quot;&gt;&lt;/i&gt;\" data-full-width=\"yes\">\n\t\t\t\t\t<ul id=\"menu-1-9ffe983\" class=\"hfe-nav-menu\"><li id=\"menu-item-2680\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-home parent hfe-creative-menu\"><a href=\"https://ces.hku.hk/\" class = \"hfe-menu-item\">Homepage</a></li>\n<li id=\"menu-item-2686\" class=\"menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu\"><a href=\"https://ces.hku.hk/?page_id=21\" class = \"hfe-menu-item\">Publications</a></li>\n<li id=\"menu-item-2717\" class=\"menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu\"><a href=\"https://ces.hku.hk/?page_id=2714\" class = \"hfe-menu-item\">Aqueous Battery Service</a></li>\n<li id=\"menu-item-2685\" class=\"menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu\"><a href=\"https://ces.hku.hk/?page_id=25\" class = \"hfe-menu-item\">Contact</a></li>\n</ul> \n\t\t\t\t</nav>\n\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-c8871aa e-flex e-con-boxed e-con e-parent\" data-id=\"c8871aa\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-e88b6fa elementor-widget elementor-widget-image\" data-id=\"e88b6fa\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img decoding=\"async\" width=\"259\" height=\"194\" src=\"https://ces.hku.hk/wp-content/uploads/2026/03/360_F_353839266_8yqhN0548cGxrl4VOxngsiJzDgrDHxjG-1.jpg\" class=\"attachment-full size-full wp-image-2670\" alt=\"360 f 353839266 8yqhn0548cgxrl4voxngsijzdgrdhxjg\" title=\"Publications\">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t"
+    },
+    "date": "2026-03-16T13:41:19",
+    "date_gmt": "2026-03-16T05:41:19",
+    "excerpt": {
+      "protected": false,
+      "rendered": "<p>Menu Homepage Publications Contact</p>\n"
+    },
+    "featured_media": 0,
+    "guid": {
+      "rendered": "https://ces.hku.hk/services/"
+    },
+    "id": 21,
+    "link": "https://ces.hku.hk/?page_id=21",
+    "menu_order": 0,
+    "meta": {
+      "_locale": "",
+      "_original_post": "",
+      "footnotes": ""
+    },
+    "modified": "2026-03-16T17:58:13",
+    "modified_gmt": "2026-03-16T09:58:13",
+    "parent": 0,
+    "ping_status": "closed",
+    "slug": "services",
+    "status": "publish",
+    "template": "",
+    "title": {
+      "rendered": "Publications"
+    },
+    "type": "page"
+  },
+  {
+    "_links": {
+      "about": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/users/3"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/pages"
+        }
+      ],
+      "curies": [
+        {
+          "href": "https://api.w.org/{rel}",
+          "name": "wp",
+          "templated": true
+        }
+      ],
+      "predecessor-version": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/pages/2/revisions/2723",
+          "id": 2723
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ces.hku.hk/index.php?rest_route=%2Fwp%2Fv2%2Fcomments&post=2"
+        }
+      ],
+      "self": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/pages/2",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "version-history": [
+        {
+          "count": 23,
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/pages/2/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=2"
+        }
+      ]
+    },
+    "author": 3,
+    "class_list": [
+      "post-2",
+      "page",
+      "type-page",
+      "status-publish",
+      "hentry",
+      "en-US"
+    ],
+    "comment_status": "closed",
+    "content": {
+      "protected": false,
+      "rendered": "\t\t<div data-elementor-type=\"wp-post\" data-elementor-id=\"2\" class=\"elementor elementor-2\">\n\t\t\t\t<div class=\"elementor-element elementor-element-8120f30 e-flex e-con-boxed e-con e-parent\" data-id=\"8120f30\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t<div class=\"elementor-element elementor-element-e317e59 e-flex e-con-boxed e-con e-child\" data-id=\"e317e59\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-372ee60 elementor-widget__width-initial elementor-widget elementor-widget-text-editor\" data-id=\"372ee60\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<ul class=\"bogo-language-switcher list-view\"><li class=\"en-US en current first\"><span class=\"bogoflags bogoflags-us\"></span> <span class=\"bogo-language-name\"><a rel=\"alternate\" hreflang=\"en-US\" href=\"https://ces.hku.hk/\" title=\"English\" class=\"current\" aria-current=\"page\">English</a></span></li>\n<li class=\"zh-CN\"><span class=\"bogoflags bogoflags-cn\"></span> <span class=\"bogo-language-name\"><a rel=\"alternate\" hreflang=\"zh-CN\" href=\"https://ces.hku.hk/?lang=zh-CN\" title=\"Chinese (China)\">简体中文</a></span></li>\n<li class=\"zh-HK last\"><span class=\"bogoflags bogoflags-hk\"></span> <span class=\"bogo-language-name\"><a rel=\"alternate\" hreflang=\"zh-HK\" href=\"https://ces.hku.hk/?lang=zh-HK\" title=\"Chinese (Hong Kong)\">香港中文</a></span></li>\n</ul>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-e9189bb elementor-widget elementor-widget-image\" data-id=\"e9189bb\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img decoding=\"async\" width=\"2560\" height=\"616\" src=\"https://ces.hku.hk/wp-content/uploads/2026/03/图片1-1-scaled.png\" class=\"attachment-full size-full wp-image-2625\" alt=\"图片1\" srcset=\"https://ces.hku.hk/wp-content/uploads/2026/03/图片1-1-scaled.png 2560w, https://ces.hku.hk/wp-content/uploads/2026/03/图片1-1-300x72.png 300w, https://ces.hku.hk/wp-content/uploads/2026/03/图片1-1-1024x246.png 1024w, https://ces.hku.hk/wp-content/uploads/2026/03/图片1-1-768x185.png 768w, https://ces.hku.hk/wp-content/uploads/2026/03/图片1-1-1536x369.png 1536w, https://ces.hku.hk/wp-content/uploads/2026/03/图片1-1-2048x493.png 2048w\" sizes=\"(max-width: 2560px) 100vw, 2560px\" title=\"Homepage\">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-600bd0e e-flex e-con-boxed e-con e-parent\" data-id=\"600bd0e\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-fb8805b elementor-widget elementor-widget-text-editor\" data-id=\"fb8805b\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\tFounded in 2025, the Center for Energy Storage at The University of Hong Kong (HKU) is an academic hub dedicated to advancing cutting-edge energy storage research and innovation. Rooted in HKU’s academic excellence, it focuses on five strategic directions: safe aqueous energy storage, solid-state batteries, battery recycling, AI integration for batteries, and new battery chemistries.\n<p style=\"text-align: justify;\">The Center targets on delivering profound social, industrial, and educational impacts. Socially, it tackles urgent global issues like climate change and energy sustainability by supporting renewable energy integration and low-carbon energy transition. Industrially, it drives technology transfer by licensing new battery chemistries to industry, fostering sector upgrading and a sustainable energy ecosystem. Educationally, it provides top-tier research opportunities in cutting-edge fields like AI for batteries, nurturing a new generation of energy leaders capable of guiding global transition efforts. To achieve its mission, the Center has four core strategic goals. It develops innovative technologies by integrating AI and in-situ characterizations, enhances global R&amp;D through international academic collaborations and knowledge transfer, fosters industry engagement by building a collaboration platform with energy firms and utilities, and elevates HKU’s energy storage research through a unified brand to boost international recognition. More than a research institute, the vision of Center for Energy Storage at HKU is to serve as a catalyst for energy transition. It targets on merging academic excellence, technological innovation, and societal responsibility to shape a sustainable, low-carbon energy future for Hong Kong and the world.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t"
+    },
+    "date": "2026-03-16T13:41:19",
+    "date_gmt": "2026-03-16T05:41:19",
+    "excerpt": {
+      "protected": false,
+      "rendered": "<p>Founded in 2025, the Center for Energy Storage at The University of Hong Kong (HKU) is an academic hub dedicated to advancing cutting-edge energy storage research and innovation. Rooted in HKU’s academic excellence, it focuses on five strategic directions: safe aqueous energy storage, solid-state batteries, battery recycling, AI integration for batteries, and new battery chemistries. [&hellip;]</p>\n"
+    },
+    "featured_media": 0,
+    "guid": {
+      "rendered": "https://ces.hku.hk/home/"
+    },
+    "id": 2,
+    "link": "https://ces.hku.hk/",
+    "menu_order": 0,
+    "meta": {
+      "_locale": "en_US",
+      "_original_post": "https://ces.hku.hk/home/",
+      "footnotes": ""
+    },
+    "modified": "2026-03-20T11:56:23",
+    "modified_gmt": "2026-03-20T03:56:23",
+    "parent": 0,
+    "ping_status": "closed",
+    "slug": "home",
+    "status": "publish",
+    "template": "elementor_theme",
+    "title": {
+      "rendered": "Homepage"
+    },
+    "type": "page"
+  },
+  {
+    "_links": {
+      "about": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/users/4"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/pages"
+        }
+      ],
+      "curies": [
+        {
+          "href": "https://api.w.org/{rel}",
+          "name": "wp",
+          "templated": true
+        }
+      ],
+      "predecessor-version": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/pages/529/revisions/2637",
+          "id": 2637
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ces.hku.hk/index.php?rest_route=%2Fwp%2Fv2%2Fcomments&post=529"
+        }
+      ],
+      "self": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/pages/529",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/pages/529/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=529"
+        }
+      ]
+    },
+    "author": 4,
+    "class_list": [
+      "post-529",
+      "page",
+      "type-page",
+      "status-publish",
+      "hentry",
+      "en-US"
+    ],
+    "comment_status": "closed",
+    "content": {
+      "protected": false,
+      "rendered": ""
+    },
+    "date": "2026-03-12T15:10:15",
+    "date_gmt": "2026-03-12T07:10:15",
+    "excerpt": {
+      "protected": false,
+      "rendered": ""
+    },
+    "featured_media": 0,
+    "guid": {
+      "rendered": "https://ces.hku.hk/?page_id=529"
+    },
+    "id": 529,
+    "link": "https://ces.hku.hk/?page_id=529",
+    "menu_order": 0,
+    "meta": {
+      "_locale": "",
+      "_original_post": "",
+      "footnotes": ""
+    },
+    "modified": "2026-03-12T15:41:11",
+    "modified_gmt": "2026-03-12T07:41:11",
+    "parent": 0,
+    "ping_status": "closed",
+    "slug": "case-display",
+    "status": "publish",
+    "template": "",
+    "title": {
+      "rendered": "Case Display"
+    },
+    "type": "page"
+  }
+]

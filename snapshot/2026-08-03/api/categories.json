@@ -1,0 +1,47 @@
+[
+  {
+    "_links": {
+      "about": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "curies": [
+        {
+          "href": "https://api.w.org/{rel}",
+          "name": "wp",
+          "templated": true
+        }
+      ],
+      "self": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/categories/1",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=1"
+        }
+      ]
+    },
+    "count": 0,
+    "description": "",
+    "id": 1,
+    "link": "https://ces.hku.hk/?cat=1",
+    "meta": [],
+    "name": "Uncategorized",
+    "parent": 0,
+    "slug": "uncategorized",
+    "taxonomy": "category"
+  }
+]

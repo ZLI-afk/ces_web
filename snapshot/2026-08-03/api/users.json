@@ -1,0 +1,105 @@
+[
+  {
+    "_links": {
+      "collection": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/users"
+        }
+      ],
+      "self": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/users/2",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ]
+    },
+    "avatar_urls": {
+      "24": "https://secure.gravatar.com/avatar/b5225eda33b10bc1dc1fddc433a0cbc702f052f43ab2a3c2e015e405cc4f78f1?s=24&d=mm&r=g",
+      "48": "https://secure.gravatar.com/avatar/b5225eda33b10bc1dc1fddc433a0cbc702f052f43ab2a3c2e015e405cc4f78f1?s=48&d=mm&r=g",
+      "96": "https://secure.gravatar.com/avatar/b5225eda33b10bc1dc1fddc433a0cbc702f052f43ab2a3c2e015e405cc4f78f1?s=96&d=mm&r=g"
+    },
+    "description": "",
+    "elementor_introduction": "",
+    "id": 2,
+    "link": "https://ces.hku.hk/?author=2",
+    "meta": [],
+    "name": "cyzhi",
+    "slug": "cyzhi",
+    "url": ""
+  },
+  {
+    "_links": {
+      "collection": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/users"
+        }
+      ],
+      "self": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/users/3",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ]
+    },
+    "avatar_urls": {
+      "24": "https://secure.gravatar.com/avatar/ccba0269799b7412a68a9b78a93e5d471043b04a1fd7f20b4d80eaef8cef5570?s=24&d=mm&r=g",
+      "48": "https://secure.gravatar.com/avatar/ccba0269799b7412a68a9b78a93e5d471043b04a1fd7f20b4d80eaef8cef5570?s=48&d=mm&r=g",
+      "96": "https://secure.gravatar.com/avatar/ccba0269799b7412a68a9b78a93e5d471043b04a1fd7f20b4d80eaef8cef5570?s=96&d=mm&r=g"
+    },
+    "description": "",
+    "elementor_introduction": {
+      "ai-get-started-announcement": true,
+      "e-editor-one-notice-pointer": true,
+      "globals_introduction": true
+    },
+    "id": 3,
+    "link": "https://ces.hku.hk/?author=3",
+    "meta": [],
+    "name": "Huang Fen",
+    "slug": "fhuang1",
+    "url": ""
+  },
+  {
+    "_links": {
+      "collection": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/users"
+        }
+      ],
+      "self": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/users/4",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ]
+    },
+    "avatar_urls": {
+      "24": "https://secure.gravatar.com/avatar/789985d11dce7b3d7202825958eeb866fea42005b7fe92322a09f058195e2622?s=24&d=mm&r=g",
+      "48": "https://secure.gravatar.com/avatar/789985d11dce7b3d7202825958eeb866fea42005b7fe92322a09f058195e2622?s=48&d=mm&r=g",
+      "96": "https://secure.gravatar.com/avatar/789985d11dce7b3d7202825958eeb866fea42005b7fe92322a09f058195e2622?s=96&d=mm&r=g"
+    },
+    "description": "",
+    "elementor_introduction": {
+      "ai-get-started-announcement": true,
+      "e-editor-one-notice-pointer": true
+    },
+    "id": 4,
+    "link": "https://ces.hku.hk/?author=4",
+    "meta": [],
+    "name": "syang",
+    "slug": "syang",
+    "url": "http://ces.hku.hk/wp-admin/"
+  }
+]

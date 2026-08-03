@@ -1,0 +1,64 @@
+[
+  {
+    "_links": {
+      "about": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/types/wp_navigation"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/navigation"
+        }
+      ],
+      "curies": [
+        {
+          "href": "https://api.w.org/{rel}",
+          "name": "wp",
+          "templated": true
+        }
+      ],
+      "self": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/navigation/4",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://ces.hku.hk/index.php?rest_route=/wp/v2/navigation/4/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ces.hku.hk/index.php?rest_route=%2Fwp%2Fv2%2Fmedia&parent=4"
+        }
+      ]
+    },
+    "content": {
+      "protected": false,
+      "rendered": "<ul class=\"wp-block-page-list\"><li class=\"wp-block-pages-list__item\"><a class=\"wp-block-pages-list__item__link\" href=\"https://ces.hku.hk/?page_id=2714\">Aqueous Battery Service</a></li><li class=\"wp-block-pages-list__item\"><a class=\"wp-block-pages-list__item__link\" href=\"https://ces.hku.hk/?page_id=529\">Case Display</a></li><li class=\"wp-block-pages-list__item\"><a class=\"wp-block-pages-list__item__link\" href=\"https://ces.hku.hk/?page_id=25\">Contact</a></li><li class=\"wp-block-pages-list__item menu-item-home\"><a class=\"wp-block-pages-list__item__link\" href=\"https://ces.hku.hk/\">Homepage</a></li><li class=\"wp-block-pages-list__item\"><a class=\"wp-block-pages-list__item__link\" href=\"https://ces.hku.hk/?page_id=21\">Publications</a></li></ul>"
+    },
+    "date": "2026-02-03T09:18:35",
+    "date_gmt": "2026-02-03T09:18:35",
+    "guid": {
+      "rendered": "https://ces.hku.hk/?p=4"
+    },
+    "id": 4,
+    "link": "https://ces.hku.hk/?p=4",
+    "modified": "2026-02-03T09:18:35",
+    "modified_gmt": "2026-02-03T09:18:35",
+    "slug": "navigation",
+    "status": "publish",
+    "template": "",
+    "title": {
+      "rendered": "Navigation"
+    },
+    "type": "wp_navigation"
+  }
+]

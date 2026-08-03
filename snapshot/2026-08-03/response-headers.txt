@@ -1,0 +1,23 @@
+HTTP/2 200 
+date: Mon, 03 Aug 2026 06:44:25 GMT
+content-type: text/html; charset=UTF-8
+cf-ray: a2535a8dfe0984f4-HKG
+cf-cache-status: HIT
+age: 38186
+cache-control: public, max-age=0, s-maxage=86400
+last-modified: Sun, 02 Aug 2026 20:07:59 GMT
+link: <https://ces.hku.hk/index.php?rest_route=/>; rel="https://api.w.org/", <https://ces.hku.hk/index.php?rest_route=/wp/v2/pages/2>; rel="alternate"; title="JSON"; type="application/json", <https://ces.hku.hk/>; rel=shortlink
+server: cloudflare
+vary: Accept-Encoding
+ki-cf-cache-status: HIT
+x-content-type-options: nosniff
+x-edge-location-klb: 1
+ki-cache-tag: e000aa2c-a377-4ee9-a00e-d2fbf8c25656,240c024c71d6d72b29b729b99eae54b856dc0de1eb2e1fdf53666cc5055316ac
+ki-cache-type: Edge
+ki-edge: v=28.4.5;mv=99.9.9
+ki-origin: o1i
+x-kinsta-cache: HIT
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=yk82GOrRIWncOzoSyTnHiYrNugMBHb6f6MlPLB3oWP1BWtw1bnBIJ1tZ0V97%2BYszvO3xt6QbYzX8bBO%2Fy5Dp8uG58YtmB9BFs%2BpOr3tDRlfoXglWE3E8KyPOLbQ%3D"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}
+alt-svc: h3=":443"; ma=86400
+

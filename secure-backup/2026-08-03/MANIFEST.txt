@@ -1,0 +1,23 @@
+CES WordPress authenticated backup
+Created: 2026-08-03 06:56 UTC
+Encryption: AES-256-CBC, PBKDF2-HMAC-SHA256, 600000 iterations
+
+Decrypted archive:
+130186341 bytes
+SHA256 145f626e7afb733c55292ae2abfc478a29e84181efecaac1de2307aae890d01c
+
+Concatenated encrypted stream:
+130186368 bytes
+SHA256 1315179d80c9822c03f8641d24d9b0f86736a6b30aa276012bd5391bf1dbe65e
+
+Encrypted parts:
+52428800  085da30ffaef8b0e73d24168cf4d02d6d808baadaa78eebafaee1fba022de1ff  ces-wordpress-full-backup-2026-08-03.zip.enc.part-00
+52428800  e3909bfe7c62e0c772c02b0471f96696acdb754bf05a2dae80eb9b748169a2a3  ces-wordpress-full-backup-2026-08-03.zip.enc.part-01
+25328768  4f86bcd81b493af2a0ccc7af99edc2c1326a37f30509f855707c6b31694e2ef6  ces-wordpress-full-backup-2026-08-03.zip.enc.part-02
+
+Decrypted archive members:
+uploads.zip   30116803 bytes
+themes.zip    33024996 bytes
+plugins.zip   65190211 bytes
+others.zip     3102601 bytes
+db.sql.gz      1019363 bytes

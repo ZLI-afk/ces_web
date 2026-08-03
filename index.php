@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Center for Energy Storage (CES)</title>
-    <link rel="stylesheet" href="<?php echo get_stylesheet_uri(); ?>">
+    <link rel="stylesheet" href="<?php echo get_stylesheet_uri(); ?>?v=<?php echo time(); ?>">
     <?php wp_head(); ?>
 </head>
 <body <?php body_class(); ?>>
@@ -94,20 +94,20 @@
                 <aside class="sub-nav">
                     <ul class="sub-nav-list">
                         <li class="sub-nav-item active" data-subtab="rigid-shell">
-                            <a href="#" data-i18n="abs.sub1">Aqueous Rigid-Shell Full Battery Service</a>
+                            <a href="#" data-i18n="abs.sub1">Aqueous Rigid-cased Full Batteries (ARFB) Service</a>
                         </li>
                         <li class="sub-nav-item" data-subtab="pouch">
-                            <a href="#" data-i18n="abs.sub2">Aqueous Pouch Battery Service</a>
+                            <a href="#" data-i18n="abs.sub2">Aqueous Pouch Cell Service</a>
                         </li>
                         <li class="sub-nav-item" data-subtab="custom">
-                            <a href="#" data-i18n="abs.sub3">Custom Service</a>
+                            <a href="#" data-i18n="abs.sub3">Introduction for the customization</a>
                         </li>
                     </ul>
                     <div class="sidebar-contact-box">
                         <h4 data-i18n="abs.c_contact_title">One-on-One Customization Service:</h4>
-                        <p><strong data-i18n="abs.c_contact_name">Ms. Amy, F. Huang</strong></p>
-                        <p><span data-i18n="abs.c_contact_email_label">Email</span>: <a href="mailto:fhuang1@hku.hk">fhuang1@hku.hk</a></p>
-                        <p><span data-i18n="abs.c_contact_wechat_label">WeChat</span>: Amy_huang0111</p>
+                        <p><strong data-i18n="abs.c_contact_name">Dr. Zhu</strong></p>
+                        <p><span data-i18n="abs.c_contact_email_label">Email</span>: <a href="mailto:jiaxiong.zhu@my.cityu.edu.hk" data-i18n="abs.c_contact_email">jiaxiong.zhu@my.cityu.edu.hk</a></p>
+                        <p><span data-i18n="abs.c_contact_wechat_label">WeChat</span>: <span data-i18n="abs.c_contact_wechat">136 3285 5467</span></p>
                     </div>
                 </aside>
                 <!-- Right: sub-content -->
@@ -115,99 +115,102 @@
 
                     <!-- ===== Sub-tab 1: Rigid-Shell ===== -->
                     <div class="sub-tab-panel active" id="subtab-rigid-shell">
-                        <h3 data-i18n="abs.sub1_title">Aqueous Rigid-Shell Full Battery Service</h3>
-                        <p data-i18n="abs.sub1_intro1">Given the limitations of current laboratory research conditions and practices — evaluation models based on coin cells or small-scale pouch cells offer relatively narrow and insufficient guidance for the commercialization of emerging aqueous batteries. Drawing on the experience of successfully commercialized aqueous batteries, particularly nickel-metal hydride and lead-acid batteries, we recognize that if an aqueous battery under research has practical potential, it is most likely to be realized in a rigid-shell form factor.</p>
-                        <p data-i18n="abs.sub1_intro2">Rigid-shell full cells provide the fundamental threshold for practical application: an independent sealed enclosure with a tightly assembled structure, sufficient active material loading and/or reaction capacity/utilization, adequate mass transport and current collection path lengths, all under limited excess and buffering conditions.</p>
-                        <p data-i18n="abs.sub1_intro3">The Aqueous Rigid-Shell Full Battery Service Platform focuses on the critical transitional stage from laboratory-level demonstration cells to pilot-scale cell validation and optimization. The platform provides comprehensive technical support for downstream research on emerging aqueous batteries, aiming to facilitate and guide their progression toward functional maturity.</p>
+                        <h3 data-i18n="abs.sub1_title">Aqueous Rigid-cased Full Batteries (ARFB) Service</h3>
+                        <p data-i18n="abs.sub1_intro1">Given the current limitations of laboratory conditions and evaluation models, which rely on coin cells or micro-small pouch cells, the guiding significance for advancing the practical application of emerging aqueous batteries is relatively one-sided and lacking. Meanwhile, by drawing on the successful practical experience of existing aqueous batteries, especially Metal hydride-Nickel batteries and Lead-acid batteries, we recognize that if an aqueous battery under research has the potential for practical application, it is most likely to be presented in the form of a rigid-cased battery.</p>
+                        <p data-i18n="abs.sub1_intro2">Rigid-cased encapsulation based on full batteries provides the indispensable threshold: an independent sealed space and tightly assembled structure, sufficient active material (mass and/or volume, reaction capacity and/or charge-discharge depth and/or utilization, path length of mass transfer and current collection), based on limited excesses of matter and space, or chemical/physical buffer conditions.</p>
+                        <p data-i18n="abs.sub1_intro3">The ARFB service platform primarily focuses on the transitional phase for research batteries moving towards industrialization. It aims to bridge the gap between current academic research and industrial-level batteries, providing technical and process support services to facilitate and guide various emerging aquatic batteries toward functional maturity.</p>
 
-                        <h4 data-i18n="abs.products_label">Products &amp; Processes We Offer:</h4>
+                        <h4 data-i18n="abs.products_label">Products/Batteries We Offer:</h4>
 
                         <table class="service-table">
                             <thead>
                                 <tr>
-                                    <th data-i18n="abs.th_product">Product</th>
-                                    <th data-i18n="abs.th_feature">Features</th>
-                                    <th data-i18n="abs.th_process">Process Details</th>
+                                    <th data-i18n="abs.th_product">Display</th>
+                                    <th data-i18n="abs.th_feature">Feature Description</th>
+                                    <th data-i18n="abs.th_process">Process Introduction</th>
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td><img src="<?php echo get_template_directory_uri(); ?>/assets/battery/high-loading_electrodes.jpg" alt="High-loading Electrode" class="product-img"><span data-i18n="abs.r1_prod">High-loading Electrode Process</span></td>
+                                    <td><img src="<?php echo get_template_directory_uri(); ?>/assets/battery/high-loading_electrodes.jpg" alt="High-loading Electrode" class="product-img"><span data-i18n="abs.r1_prod">High-loading electrodes:</span></td>
                                     <td>
                                         <ul class="feature-list">
-                                            <li data-i18n="abs.r1_f1">Adaptable to various active materials</li>
-                                            <li data-i18n="abs.r1_f2">Multiple current collector options</li>
-                                            <li data-i18n="abs.r1_f3">Supports high carbon additive content</li>
-                                            <li data-i18n="abs.r1_f4">Supports various loading requirements</li>
-                                            <li data-i18n="abs.r1_f5">Supports different compaction densities</li>
-                                            <li data-i18n="abs.r1_f6">Uniform and crack-free, no powder shedding</li>
+                                            <li data-i18n="abs.r1_f1">Adaptable to various active material scenarios.</li>
+                                            <li data-i18n="abs.r1_f2">Multiple current collector options.</li>
+                                            <li data-i18n="abs.r1_f3">Adaptable to high carbon addition, various loading mass/density requirements.</li>
+                                            <li data-i18n="abs.r1_f4"></li>
+                                            <li data-i18n="abs.r1_f5"></li>
+                                            <li data-i18n="abs.r1_f6">Uniform and aesthetically pleasing, without cracking or powder shedding.</li>
                                         </ul>
                                     </td>
                                     <td>
                                         <ul class="feature-list">
-                                            <li data-i18n="abs.r1_p1">Dry grinding for thorough raw material dispersion</li>
-                                            <li data-i18n="abs.r1_p2">Uniform wet mixing</li>
-                                            <li data-i18n="abs.r1_p3">High-precision film casting</li>
-                                            <li data-i18n="abs.r1_p4">High-precision lamination</li>
-                                            <li data-i18n="abs.r1_p5">High-pressure precision roll pressing</li>
-                                            <li data-i18n="abs.r1_p6">Welded tabs</li>
-                                        </ul>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td><img src="<?php echo get_template_directory_uri(); ?>/assets/battery/Cylindrical_Batteries.jpg" alt="Cylindrical Battery" class="product-img"><span data-i18n="abs.r2_prod">Cylindrical Steel-Shell Battery</span></td>
-                                    <td>
-                                        <ul class="feature-list">
-                                            <li data-i18n="abs.r2_f1">Ultra-high internal pressure limit (&le;4 MPa)</li>
-                                            <li data-i18n="abs.r2_f2">Multiple sizes (AA/SC/D/F)</li>
-                                            <li data-i18n="abs.r2_f3">High/low capacity customization</li>
-                                            <li data-i18n="abs.r2_f4">Custom appearance (color, labeling)</li>
-                                            <li data-i18n="abs.r2_f5">External series/parallel connection available</li>
-                                        </ul>
-                                    </td>
-                                    <td>
-                                        <ul class="feature-list">
-                                            <li data-i18n="abs.r2_p1">Wound jelly-roll cell core</li>
-                                            <li data-i18n="abs.r2_p2">Nickel-plated cold-rolled steel shell</li>
-                                            <li data-i18n="abs.r2_p3">Non-alkaline: lean electrolyte only (absorption-dependent)</li>
-                                            <li data-i18n="abs.r2_p4">Alkaline: flooded electrolyte supported</li>
+                                            <li data-i18n="abs.r1_p1">Dry grinding dispersion.</li>
+                                            <li data-i18n="abs.r1_p2">Wet mixing uniform.</li>
+                                            <li data-i18n="abs.r1_p3">High-precision film.</li>
+                                            <li data-i18n="abs.r1_p4">High-precision composition</li>
+                                            <li data-i18n="abs.r1_p5">High-pressure compaction.</li>
+                                            <li data-i18n="abs.r1_p6">Welded tabs (metal).</li>
                                         </ul>
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td><img src="<?php echo get_template_directory_uri(); ?>/assets/battery/Prismatic_Batteries_single.jpg" alt="Prismatic Battery Single" class="product-img"><span data-i18n="abs.r3_prod">Prismatic ABS-Shell Battery (Single Cell)</span></td>
+                                    <td><img src="<?php echo get_template_directory_uri(); ?>/assets/battery/Cylindrical_Batteries.jpg" alt="Cylindrical Battery" class="product-img"><span data-i18n="abs.r2_prod">Cylindrical Batteries:</span></td>
                                     <td>
                                         <ul class="feature-list">
-                                            <li data-i18n="abs.r3_f1">Injection molded / 3D printed</li>
-                                            <li data-i18n="abs.r3_f2">Custom dimensions</li>
-                                            <li data-i18n="abs.r3_f3">Custom shapes (accepts non-standard drawings)</li>
-                                            <li data-i18n="abs.r3_f4">Custom appearance (color, labeling)</li>
-                                            <li data-i18n="abs.r3_f5">External series/parallel connection available</li>
+                                            <li data-i18n="abs.r2_f1">Ultra-high internal pressure upper limit (&le;4 MPa).</li>
+                                            <li data-i18n="abs.r2_f2">Multiple options (AA/SC/D/F types).</li>
+                                            <li data-i18n="abs.r2_f3">Customization: capacity, appearance (colors, labels).</li>
+                                            <li data-i18n="abs.r2_f4">External series/parallel options.</li>
+                                            <li data-i18n="abs.r2_f5"></li>
                                         </ul>
                                     </td>
                                     <td>
                                         <ul class="feature-list">
-                                            <li data-i18n="abs.r3_p1">Stacked cell core (equivalent internal parallel)</li>
-                                            <li data-i18n="abs.r3_p2">Welded tabs and bus bars</li>
-                                            <li data-i18n="abs.r3_p3">Flooded or lean electrolyte supported</li>
+                                            <li data-i18n="abs.r2_p1">Wound cell.</li>
+                                            <li data-i18n="abs.r2_p2">Nickel-plated SPCC cases.</li>
+                                            <li data-i18n="abs.r2_p3">Non-alkaline, only supports lean electrolytes.</li>
+                                            <li data-i18n="abs.r2_p4">Strongly alkaline, can support non-lean electrolytes.</li>
                                         </ul>
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td><img src="<?php echo get_template_directory_uri(); ?>/assets/battery/Prismatic_Batteries_pack.png" alt="Prismatic Battery Pack" class="product-img"><span data-i18n="abs.r4_prod">Prismatic ABS-Shell Battery Pack</span></td>
+                                    <td><img src="<?php echo get_template_directory_uri(); ?>/assets/battery/Prismatic_Batteries_single.jpg" alt="Prismatic Battery Single" class="product-img"><span data-i18n="abs.r3_prod">Prismatic Batteries (single)</span></td>
                                     <td>
                                         <ul class="feature-list">
-                                            <li data-i18n="abs.r4_f1">High-strength injection-molded shell</li>
-                                            <li data-i18n="abs.r4_f2">Primarily 6-series configuration</li>
-                                            <li data-i18n="abs.r4_f3">Custom appearance (color, labeling)</li>
-                                            <li data-i18n="abs.r4_f4">External series/parallel connection available</li>
+                                            <li data-i18n="abs.r3_f1">Injection molding and 3D printing options.</li>
+                                            <li data-i18n="abs.r3_f2">Customization: size, shape, appearance (colors, labels).</li>
+                                            <li data-i18n="abs.r3_f3">External series/parallel options.</li>
+                                            <li data-i18n="abs.r3_f4"></li>
+                                            <li data-i18n="abs.r3_f5"></li>
                                         </ul>
                                     </td>
                                     <td>
                                         <ul class="feature-list">
-                                            <li data-i18n="abs.r4_p1">Internal series/parallel connection</li>
-                                            <li data-i18n="abs.r4_p2">Welded tabs and bus bars</li>
-                                            <li data-i18n="abs.r4_p3">Pre-installed safety vent</li>
+                                            <li data-i18n="abs.r3_p1">Stacked cell (Internal parallel).</li>
+                                            <li data-i18n="abs.r3_p2">ABS cases.</li>
+                                            <li data-i18n="abs.r3_p3">Welded tabs and busbars.</li>
+                                            <li data-i18n="abs.r3_p4">Support acid/mild/alkaline, lean/non-lean electrolytes.</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td><img src="<?php echo get_template_directory_uri(); ?>/assets/battery/Prismatic_Batteries_pack.png" alt="Prismatic Battery Pack" class="product-img"><span data-i18n="abs.r4_prod">Prismatic Batteries (pack)</span></td>
+                                    <td>
+                                        <ul class="feature-list">
+                                            <li data-i18n="abs.r4_f1">High-strength injection molding cases.</li>
+                                            <li data-i18n="abs.r4_f2">Mainly 6-cell-series packs.</li>
+                                            <li data-i18n="abs.r4_f3">Customization: size, shape, appearance (colors, labels).</li>
+                                            <li data-i18n="abs.r4_f4">External series/parallel options.</li>
+                                        </ul>
+                                    </td>
+                                    <td>
+                                        <ul class="feature-list">
+                                            <li data-i18n="abs.r4_p1">Internal series/parallel.</li>
+                                            <li data-i18n="abs.r4_p2">ABS cases.</li>
+                                            <li data-i18n="abs.r4_p3">Welded tabs and busbars.</li>
+                                            <li data-i18n="abs.r4_p4">Support acid/mild/alkaline, lean/non-lean electrolytes.</li>
+                                            <li data-i18n="abs.r4_p5">Integrated safety valve.</li>
                                         </ul>
                                     </td>
                                 </tr>
@@ -217,24 +220,24 @@
 
                     <!-- ===== Sub-tab 2: Pouch ===== -->
                     <div class="sub-tab-panel" id="subtab-pouch">
-                        <h3 data-i18n="abs.sub2_title">Aqueous Pouch Battery Service</h3>
-                        <p data-i18n="abs.sub2_intro1">If you only need simple packaging, or wish to complete the final battery assembly yourself, the pouch battery service is the right choice. We can provide individual battery components separately, such as cathode and anode sheets to your specifications (with optional tab welding); we can also provide dry pouch cell cores with parameters customized to your needs — simply add electrolyte and you are ready to go.</p>
-                        <p data-i18n="abs.sub2_intro2">You may also order complete pouch batteries with subsequent testing. Aside from differences in stacking layers and packaging materials, the cell core is essentially the same as the prismatic single cell.</p>
-                        <p data-i18n="abs.sub2_intro3">Since pouch cells cannot independently maintain their volume and tightly assembled state, you may also choose to test with a fixture/clamp.</p>
+                        <h3 data-i18n="abs.sub2_title">Aqueous Pouch Cell Service:</h3>
+                        <p data-i18n="abs.sub2_intro1">If you only need simple encapsulation model or wish to complete the final manufacturing by yourself, you can choose the pouch cell. We can provide individual components of the battery as required, such as positive and negative electrodes as your desired specifications (which can include welded tabs). We can also provide dry cells with customized parameters, injecting electrolytes to complete the batteries in one step.</p>
+                        <p data-i18n="abs.sub2_intro2">You can also customize full cells and subsequent testing, with differences mainly in stacking layers and encapsulation materials, while other aspects are basically the same as the Prismatic Batteries (single).</p>
+                        <p data-i18n="abs.sub2_intro3">Pouch cells cannot maintain their size/volume and tight assembly state independently, so you can choose an auxiliary clamp for testing.</p>
 
-                        <h4 data-i18n="abs.products_label">Products &amp; Processes We Offer:</h4>
+                        <h4 data-i18n="abs.products_label">Products/Batteries We Offer:</h4>
 
                         <table class="service-table">
                             <thead>
                                 <tr>
-                                    <th data-i18n="abs.th_product">Product</th>
-                                    <th data-i18n="abs.th_feature">Features</th>
-                                    <th data-i18n="abs.th_process">Process Details</th>
+                                    <th data-i18n="abs.th_product">Display</th>
+                                    <th data-i18n="abs.th_feature">Feature Description</th>
+                                    <th data-i18n="abs.th_process">Process Introduction</th>
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td><img src="<?php echo get_template_directory_uri(); ?>/assets/battery/high-loading_electrodes.jpg" alt="High-loading Electrode" class="product-img"><span data-i18n="abs.p1_prod">High-loading Electrode Process</span></td>
+                                    <td><img src="<?php echo get_template_directory_uri(); ?>/assets/battery/high-loading_electrodes.jpg" alt="High-loading Electrode" class="product-img"><span data-i18n="abs.p1_prod">High-loading electrodes:</span></td>
                                     <td>
                                         <ul class="feature-list">
                                             <li data-i18n="abs.r1_f1">Adaptable to various active materials</li>
@@ -252,44 +255,44 @@
                                             <li data-i18n="abs.r1_p3">High-precision film casting</li>
                                             <li data-i18n="abs.r1_p4">High-precision lamination</li>
                                             <li data-i18n="abs.r1_p5">High-pressure precision roll pressing</li>
-                                            <li data-i18n="abs.p1_p6">Slitting and tab welding</li>
+                                            <li data-i18n="abs.p1_p6">Welded tabs (metal).</li>
                                         </ul>
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td><img src="<?php echo get_template_directory_uri(); ?>/assets/battery/pouch_cell_dry.png" alt="Pouch Dry Cell" class="product-img"><span data-i18n="abs.p2_prod">Pouch Battery Dry Cell Core</span></td>
+                                    <td><img src="<?php echo get_template_directory_uri(); ?>/assets/battery/pouch_cell_dry.png" alt="Pouch Dry Cell" class="product-img"><span data-i18n="abs.p2_prod">Pouch cell (dry cell)</span></td>
                                     <td>
                                         <ul class="feature-list">
-                                            <li data-i18n="abs.p2_f1">Freely customizable dimensions</li>
-                                            <li data-i18n="abs.p2_f2">Custom appearance (color, labeling)</li>
+                                            <li data-i18n="abs.p2_f1">Customization: size, shape, appearance (colors, labels).</li>
+                                            <li data-i18n="abs.p2_f2"></li>
                                         </ul>
                                     </td>
                                     <td>
                                         <ul class="feature-list">
-                                            <li data-i18n="abs.p2_p1">Stacked cell core</li>
-                                            <li data-i18n="abs.p2_p2">Welded tabs</li>
-                                            <li data-i18n="abs.p2_p3">Packaging: aluminum-plastic laminate film or PP</li>
-                                            <li data-i18n="abs.p2_p4">Flooded or lean electrolyte supported</li>
+                                            <li data-i18n="abs.p2_p1">Stacked cell (Internal parallel).</li>
+                                            <li data-i18n="abs.p2_p2">Packing by APL or PP.</li>
+                                            <li data-i18n="abs.p2_p3">Welded tabs and busbars.</li>
+                                            <li data-i18n="abs.p2_p4">Support acid/mild/alkaline, lean/non-lean electrolytes.</li>
                                         </ul>
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td><img src="<?php echo get_template_directory_uri(); ?>/assets/battery/pouch_cell_full.jpg" alt="Pouch Full Battery" class="product-img"><span data-i18n="abs.p3_prod">Pouch Full Battery (Single Cell)</span></td>
+                                    <td><img src="<?php echo get_template_directory_uri(); ?>/assets/battery/pouch_cell_full.jpg" alt="Pouch Full Battery" class="product-img"><span data-i18n="abs.p3_prod">Pouch cell (full cell)</span></td>
                                     <td>
                                         <ul class="feature-list">
-                                            <li data-i18n="abs.p2_f1">Freely customizable dimensions</li>
-                                            <li data-i18n="abs.p2_f2">Custom appearance (color, labeling)</li>
+                                            <li data-i18n="abs.p2_f1">Customization: size, shape, appearance (colors, labels).</li>
+                                            <li data-i18n="abs.p2_f2"></li>
                                         </ul>
                                     </td>
                                     <td></td>
                                 </tr>
                                 <tr>
-                                    <td><img src="<?php echo get_template_directory_uri(); ?>/assets/battery/Auxiliary_clamp.jpg" alt="Test Fixture" class="product-img"><span data-i18n="abs.p4_prod">Pouch Battery Test Fixture</span></td>
+                                    <td><img src="<?php echo get_template_directory_uri(); ?>/assets/battery/Auxiliary_clamp.jpg" alt="Test Fixture" class="product-img"><span data-i18n="abs.p4_prod">Auxiliary clamp</span></td>
                                     <td>
                                         <ul class="feature-list">
-                                            <li data-i18n="abs.p4_f1">High-strength flat-plate clamp</li>
-                                            <li data-i18n="abs.p4_f2">Aluminum alloy or acrylic plates</li>
-                                            <li data-i18n="abs.p4_f3">Rectangular spring compression for pressure</li>
+                                            <li data-i18n="abs.p4_f1">High-strength parallel plate clamp.</li>
+                                            <li data-i18n="abs.p4_f2">Aluminum alloy or plexiglass.</li>
+                                            <li data-i18n="abs.p4_f3">Spring force provides pressure.</li>
                                         </ul>
                                     </td>
                                     <td></td>
@@ -300,7 +303,7 @@
 
                     <!-- ===== Sub-tab 3: Custom ===== -->
                     <div class="sub-tab-panel" id="subtab-custom">
-                        <h3 data-i18n="abs.sub3_title">Introduction for the customization</h3>
+                        <h3 data-i18n="abs.sub3_title">Introduction for the customization:</h3>
 
                         <div class="custom-block">
                             <h4 data-i18n="abs.c_anode_title">If you are conducting research related to the negative electrodes:</h4>
@@ -431,7 +434,7 @@
         </div>
     </div>
 
-    <script src="<?php echo get_template_directory_uri(); ?>/js/main.js"></script>
+    <script src="<?php echo get_template_directory_uri(); ?>/js/main.js?v=<?php echo time(); ?>"></script>
     <?php wp_footer(); ?>
 </body>
 </html>

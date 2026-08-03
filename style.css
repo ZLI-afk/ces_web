@@ -480,12 +480,13 @@ img {
 }
 
 .feature-list {
-    list-style: none;
+    list-style: none !important;
     padding: 0;
     margin: 0;
 }
 
 .feature-list li {
+    list-style: none !important;
     padding: 0.2rem 0 0.2rem 1rem;
     position: relative;
     line-height: 1.6;
@@ -498,6 +499,28 @@ img {
     left: 0;
     color: #2a7a96;
     font-weight: bold;
+}
+
+.feature-list li::marker {
+    content: '' !important;
+    font-size: 0 !important;
+}
+
+.feature-list li.hidden-item,
+.feature-list li:empty {
+    display: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    height: 0 !important;
+    overflow: hidden !important;
+}
+
+.feature-list li.hidden-item::before,
+.feature-list li.hidden-item::marker,
+.feature-list li:empty::before,
+.feature-list li:empty::marker {
+    content: none !important;
+    display: none !important;
 }
 
 /* ===== Custom Service Blocks ===== */

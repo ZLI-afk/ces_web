@@ -1,0 +1,6 @@
+# Decrypted or unsplit private backup material must never enter this public repo.
+secure-backup/**/*.zip
+secure-backup/**/*.sql
+secure-backup/**/*.sql.gz
+secure-backup/**/*.enc
+secure-backup/**/*.key

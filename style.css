@@ -46,6 +46,18 @@ img {
     height: auto;
 }
 
+/* ===== Temporary Launch Notice ===== */
+.launch-notice {
+    padding: 0.65rem 1rem;
+    border-bottom: 1px solid #d2a943;
+    background-color: #f1c75b;
+    color: #263238;
+    font-size: 0.92rem;
+    font-weight: 700;
+    line-height: 1.4;
+    text-align: center;
+}
+
 /* ===== Top Utility Bar ===== */
 .top-bar {
     background-color: #1a5f7a;
@@ -646,6 +658,7 @@ img {
     font-size: 0.85rem;
     color: #444;
     line-height: 1.5;
+    overflow-wrap: anywhere;
 }
 
 .sidebar-contact-box a {
@@ -808,7 +821,8 @@ img {
 .contact-info-block p {
     font-size: 1rem;
     color: #555;
-    margin-bottom: 0;
+    margin-bottom: 0.25rem;
+    overflow-wrap: anywhere;
 }
 
 .contact-info-block a {
@@ -819,6 +833,28 @@ img {
 .contact-info-block a:hover {
     color: #1a5f7a;
     text-decoration: underline;
+}
+
+.contact-qr {
+    width: min(220px, 100%);
+    margin: 0 0 1.5rem;
+}
+
+.contact-qr img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 1;
+    border: 1px solid #d8e2e6;
+    border-radius: 4px;
+    background-color: #fff;
+}
+
+.contact-qr p {
+    margin: 0.55rem 0 0;
+    color: #666;
+    font-size: 0.84rem;
+    line-height: 1.45;
+    text-align: center;
 }
 
 .contact-campus-img {
@@ -924,6 +960,11 @@ img {
 
 /* ===== Responsive ===== */
 @media (max-width: 768px) {
+    .launch-notice {
+        padding: 0.6rem 0.75rem;
+        font-size: 0.85rem;
+    }
+
     .top-bar-inner {
         flex-direction: column;
         gap: 0.3rem;
@@ -989,6 +1030,10 @@ img {
     .contact-layout {
         grid-template-columns: 1fr;
         gap: 2rem;
+    }
+
+    .contact-qr {
+        width: min(200px, 70vw);
     }
 
     .subpage-layout {

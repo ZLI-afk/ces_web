@@ -124,11 +124,11 @@
 
                         <div class="service-products">
                             <article class="service-product-card cylindrical-product">
-                                <img src="<?php echo get_template_directory_uri(); ?>/assets/battery/Cylindrical_Batteries.jpg" alt="AA and F cylindrical batteries" class="service-product-image">
+                                <img src="<?php echo get_template_directory_uri(); ?>/assets/battery/Cylindrical_Batteries_0807.jpg" alt="AA and F cylindrical batteries" class="service-product-image">
                                 <h5 data-i18n="abs.r2_prod">Cylindrical Battery Fabrication and Test</h5>
                             </article>
                             <article class="service-product-card">
-                                <img src="<?php echo get_template_directory_uri(); ?>/assets/battery/Prismatic_Batteries_single.jpg" alt="P2, P2+ and P3 prismatic batteries" class="service-product-image">
+                                <img src="<?php echo get_template_directory_uri(); ?>/assets/battery/Prismatic_Batteries_single_0807.jpg" alt="P1, P2 and P3 prismatic batteries" class="service-product-image">
                                 <h5 data-i18n="abs.r3_prod">Prismatic Batteries (Single Cell)</h5>
                             </article>
                             <article class="service-product-card">

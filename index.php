@@ -9,10 +9,6 @@
 </head>
 <body <?php body_class(); ?>>
 
-    <div class="launch-notice" role="status">
-        <span data-i18n="launch.notice">To Be Launched in September 2026</span>
-    </div>
-
     <!-- Top utility bar: language switcher -->
     <div class="top-bar">
         <div class="top-bar-inner">
@@ -91,6 +87,9 @@
         <div class="subpage-banner">
             <h2 data-i18n="abs.title">Aqueous Battery Custom Service</h2>
         </div>
+        <div class="launch-notice" role="status">
+            <span data-i18n="launch.notice">To Be Launched in September 2026</span>
+        </div>
         <main class="site-content">
             <div class="subpage-layout">
                 <!-- Left: sub-menu -->
@@ -106,6 +105,7 @@
                     <div class="sidebar-contact-box">
                         <h4 data-i18n="abs.c_contact_title">One-on-One Customization Service:</h4>
                         <p><strong data-i18n="abs.c_contact_name">Zhili Wang</strong></p>
+                        <p><span data-i18n="abs.c_contact_phone_label">Phone</span>: <a href="tel:+8613076916508" data-i18n="abs.c_contact_phone">13076916508</a></p>
                         <p><span data-i18n="abs.c_contact_email_label">Email</span>: <a href="mailto:1137100644@qq.com" data-i18n="abs.c_contact_email">1137100644@qq.com</a></p>
                         <p><span data-i18n="abs.c_contact_wechat_label">WeChat</span>: <span data-i18n="abs.c_contact_wechat">Zhili_Wang698</span></p>
                     </div>
@@ -187,6 +187,7 @@
                         <div class="contact-info-block">
                             <h4 data-i18n="contact.person_label">Contact Person</h4>
                             <p data-i18n="contact.person_name">Zhili Wang</p>
+                            <p><span data-i18n="contact.phone_label">Phone</span>: <a href="tel:+8613076916508" data-i18n="contact.phone">13076916508</a></p>
                             <p><span data-i18n="contact.email_label">Email</span>: <a href="mailto:1137100644@qq.com" data-i18n="contact.email">1137100644@qq.com</a></p>
                             <p><span data-i18n="contact.wechat_label">WeChat</span>: <span data-i18n="contact.wechat">Zhili_Wang698</span></p>
                         </div>
